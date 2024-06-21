@@ -1,0 +1,1081 @@
+At the bottom.
+
+0:02
+OK.
+
+0:02
+Yes.
+
+0:10
+Yeah, we can see the stream.
+
+0:12
+So this, sorry, I have two.
+
+0:23
+OK.
+
+0:24
+How to hide this?
+
+0:25
+I don't know the h what?
+
+0:30
+Yeah.
+
+0:30
+OK.
+
+0:31
+So this is the C five S workspace.
+
+0:35
+Yeah, I'll add Achilles here and Chennai also.
+
+0:44
+But essentially what we have to do here is when someone new joins and this is what Katori has to do.
+
+0:50
+I've told her also, but sometimes when she's not available, it's come to us, it comes to us.
+
+1:00
+So what we do is, I mean, when you have to connect through the plug in, you need us an endpoint assign which is the secure tunnel end point.
+
+1:08
+And we, any new user who has joined the workspace, We assigned that to him.
+
+1:18
+Got it.
+
+1:21
+OK.
+
+1:30
+Right.
+
+1:30
+That, that was a strange book.
+
+1:32
+I've never seen that before.
+
+1:34
+Yeah.
+
+1:35
+So these are, so we used to have those RDP end points earlier, but now we have switched to the secure tunnel end points and look at these, these are 234567.
+
+1:54
+So I'll go to the nearest one and see users.
+
+2:00
+So OK.
+
+2:01
+Only one is a sign.
+
+2:02
+Sorry.
+
+2:04
+Are you saying something?
+
+2:07
+No, no, go ahead.
+
+2:08
+OK.
+
+2:09
+So yeah, I'll, I'll add them here.
+
+2:12
+Like for example, if or whoever the new user is at the near and they will start seeing this end point on their desktop app.
+
+2:25
+Hm Right.
+
+2:27
+When this reaches 10.
+
+2:30
+So we we are assigning not more than 10 users to the secure tunnel end point when this reaches 10.
+
+2:35
+For example, this one, for example, when it reaches if you look at these users, it is it already at 10.
+
+2:44
+So that we create a new resource, we'll create a new endpoint.
+
+2:52
+Oh It's a new resource, new resource for secure tens.
+
+2:55
+Got it.
+
+2:57
+OK.
+
+2:58
+And let's call it secure terminal eight, create and create and point.
+
+3:11
+me and we have a new cluster for them which is this cost cluster because we separated them from but payments after that.
+
+3:25
+So we use this and create the end point.
+
+3:31
+But this, this is done only when that count for the most recent endpoint which is 10.
+
+3:37
+Got it.
+
+3:38
+Got, it is seven is the one that's that, that still has 48 slots.
+
+3:44
+That, that exactly.
+
+3:46
+Yes.
+
+3:46
+Yes.
+
+3:47
+10 is a ball park one or two here.
+
+3:49
+It shouldn't make much of a difference.
+
+3:50
+But yes, 10 is the guiding number we are using.
+
+3:54
+And once, once this is done.
+
+3:56
+We add the new user here.
+
+3:59
+Got it.
+
+4:00
+OK.
+
+4:00
+So typically, I mean, Katari does II I haven't told her exactly how to do this, but Kari would be doing this.
+
+4:08
+And when she's not around, what happens is there is this workspace where they get added.
+
+4:14
+So they just add them here.
+
+4:16
+And the expectation is that they will automatically start seeing them those end points.
+
+4:22
+So once they are here, either they should already have the access or if they don't, we have to assign that to the card, correct.
+
+4:33
+This was, yeah, this is for the on boarding.
+
+4:37
+And how do we know when they shown in the, when they show up in the Slack channel, whether they already have the, the access to the end points or not?
+
+4:46
+Do they, do they explicitly mention or message in the group that they don't have, have it?
+
+4:53
+Yeah, actually, I, I think we have to look up.
+
+4:58
+So there are 21 is that sometimes they may not have even been invited.
+
+5:02
+So that installation on the installation channel, the email wouldn't have come.
+
+5:10
+So we basically cross check it when, if they have been added to Slack, whether we saw their email in the installation channel or not.
+
+5:17
+And if not, then we go ahead and invite them.
+
+5:19
+Yeah, invite inviting.
+
+5:22
+Is she usually does it?
+
+5:23
+So invitation is not really a problem.
+
+5:26
+I think this assignment is the part that we we do for them.
+
+5:30
+Got it, got it.
+
+5:32
+Right.
+
+5:32
+So, yeah, so this is the assignment part then let me actually go back to that top issues.
+
+5:54
+So then this is the other one is not installed, the app is not installed or they have installed it, but they cannot see things like those.
+
+6:03
+One of the issues is what Achilles saw just now.
+
+6:07
+Yeah.
+
+6:10
+And II, I think often it is because of this errors that that are thrown because Apple and Microsoft don't know about our app.
+
+6:19
+So it's just standard steps to ignore those errors and go ahead and use it anyway.
+
+6:27
+OK.
+
+6:27
+All right.
+
+6:30
+This one, frequent disconnects.
+
+6:34
+This is one issue that has been reported in the last one week or 10 days.
+
+6:41
+And we have rolled out a test build for this.
+
+6:45
+So, all right, it is another item.
+
+6:48
+I, I will share the link.
+
+6:54
+So we have shared this test build with three of them.
+
+6:58
+There is one Vishnu and Jual and Saran, these three, these three folks, we have shared the test build.
+
+7:08
+We are sharing the test build with them and if it is, if it looks good, we'll go back and release it to the others.
+
+7:16
+So that is the,, I mean, top issue right now with them, they say they get frequently disconnected.
+
+7:22
+It affects,, those more who are actively using it.
+
+7:27
+Most, I mean, most users use it for one or two websites and then they're done but someone who is using it throughout the day, they, it affects them more.
+
+7:36
+All right, we were attributing this to their own wi Fi which, which still might be the case.
+
+7:41
+But what, what she has done is it reconnects automatically whenever that happens.
+
+7:48
+All right.
+
+7:50
+The A anything here.
+
+7:53
+No, no.
+
+7:54
+OK.
+
+7:56
+The other one is so when you log in from the desktop app, I don't have it launched.
+
+8:06
+OK.
+
+8:13
+So sometimes what happens is pe users are not able to log in because they can't even connect to app dot adaptive dot life.
+
+8:21
+That is mostly because their exception list is not updated.
+
+8:26
+So let me go to Chrome.
+
+8:28
+The plug in works on edge also.
+
+8:30
+But I, I, I'm not installed it on edge.
+
+8:34
+So if it is unable to connect to adaptive dot Live, it is because this adaptive dot Live is not present here.
+
+8:42
+OK.
+
+8:44
+Sometimes users say that I'm not able to open Google also without connecting.
+
+8:47
+Then all the Google is here.
+
+8:51
+I mean, we, we get that Google added sometimes it is google.co.in that they have to add.
+
+9:00
+OK?
+
+9:00
+OK.
+
+9:00
+So this is about exception list when they are unable to connect to,, they frequently seen websites so, like air and any other websites that doesn't need the plug in.
+
+9:13
+We,, and they frequently use it.
+
+9:16
+We get it in this list.
+
+9:17
+.
+
+9:17
+, the other issue I think this will be fixed,, in one of the next builds is that you get logged out of the app.
+
+9:28
+, so I didn't log in.
+
+9:39
+Yeah.
+
+9:39
+So you get logged out but this continues to show, I mean, the screen doesn't change.
+
+9:44
+So, OK, you, so although you're logged out, you, I mean, because you're logged out, you will try to connect and you will not be able to connect.
+
+9:54
+Mhm Let me actually open a secure tunnel, right?
+
+10:06
+So what happens is when you get logged out, this, this window closes and this toggles off automatically.
+
+10:18
+Ok.
+
+10:18
+But the screen doesn't go away.
+
+10:20
+So you have to make sure that this is refreshed.
+
+10:24
+So for refreshing it, you press control R and see if the log in button comes up, you ask them to log in and you're done the current issue.
+
+10:34
+I mean, the current issue about the disconnect is what happens is let's say you, this is running and you're using your accessing those websites suddenly what ha what will happen is this terminal window will close and this toggle will turn off and there's they, I mean, they say they are seeing it every 5, 10 minutes.
+
+10:54
+So for that, we,, I mean, the response is that we have a new bill which is being tested with the certified staff.
+
+11:02
+I mean, testing volunteers and we'll be really, I mean, rolling it out in one or two days.
+
+11:08
+Yeah.
+
+11:09
+Fabulous.
+
+11:09
+Can you make, make note of this?
+
+11:11
+And this is the response like Ian is also telling me what to tell them.
+
+11:15
+Yeah.
+
+11:15
+Yeah, I'm noting them down.
+
+11:17
+Yeah.
+
+11:17
+Yeah.
+
+11:18
+I mean, it will, it will mostly be sorted today or tomorrow.
+
+11:21
+, but if it gets delayed further, I mean, if there are more issues from then, yeah, that is the only open item right now as far as,,, I mean, the ones that we are working on,, sometimes we have seen that websites are not accessible.
+
+11:38
+So,, I mean, we just, we just need to watch out for this because it appears that it's,, something wrong with the plug in or,, the desktop app.
+
+11:48
+But,,, on, for the investigation, it turns out that it's the problem with those one or two websites which are not connecting.
+
+11:57
+Got you and I help frequent.
+
+12:01
+Yeah, go ahead.
+
+12:01
+, what do you do in that case?
+
+12:05
+, if, if there's a website problem, you just tell them that it's a website problem.
+
+12:09
+Yeah.
+
+12:09
+Yeah.
+
+12:09
+So,, first, I mean, if, if, once we have narrowed it down to that website then,, by, by trying to connect it,, to see if other websites connect.
+
+12:19
+Then,, we just tell them that follow up with the concerned person on their and got it.
+
+12:27
+So typically it's their manager who tells them what to do.
+
+12:29
+, in one or two rare cases, we have seen that it's only on, from their system that they are able to connect.
+
+12:35
+, so,, I mean, in those cases, we, we just asked them to, troubleshoot on their own after spending some time with them, One person was not able to access our website.
+
+12:49
+I was able to access it fine from the same endpoint her colleagues were able to access.
+
+12:54
+So in those cases, we can't help much.
+
+12:58
+Oh, I got it.
+
+13:00
+Two situations we were moving those clusters, resizing them.
+
+13:04
+So adaptive went down, we will know about this.
+
+13:07
+So we just asked them to wait.
+
+13:09
+And 11 case it happened was that a user was on boarded, she tried to log in but she didn't, she, she saw a blank screen here.
+
+13:21
+Hm.
+
+13:22
+No, no end points were assigned to her.
+
+13:24
+So for those, we just have to do that on boarding which was which I missed on boarding.
+
+13:28
+Once you do that, she'll start seeing it, call it.
+
+13:34
+This one is not visible.
+
+13:35
+So what happens is once you install the app and start it, it, it hides here in Mac.
+
+13:43
+Also, it, it is I mean, it's not prominently visible.
+
+13:46
+So it is either in the notification at the top or it's here.
+
+13:50
+So often it is just about telling them that it's there.
+
+13:54
+You just click on this and you can use it.
+
+13:59
+Got it.
+
+14:00
+Yeah, the these are this was also one case where the invitation had expired.
+
+14:06
+We have to just re invite them and 11 or two users what happens?
+
+14:13
+They have reported that their Wi Fi as issues.
+
+14:17
+So during P cards, for example, this Gerard Pathan yeah, during peak hours, what happens is that his sp switches I mean reassigns IP S or adjust speeds which causes our connections to drop.
+
+14:37
+So in those cases, I think we just tell them that it's not us, it's, you have to look get this sorted because he himself admits that once the speed improves outside the car, he's able to use it fine.
+
+14:54
+Yeah, I think these are the major issues.
+
+14:57
+I have some I will add the achilles to the workspace and to the channel and also share the link for the test build.
+
+15:07
+Yeah.
+
+15:08
+Yeah.
+
+15:08
+Yeah.
+
+15:08
+And I will share the recording Oculus with you and I think OK, so maybe just set up a call with Chen Man and get him up to speed on this too.
+
+15:19
+OK.
+
+15:19
+OK.
+
+15:20
+I imagine one question on the, the frequent disconnect issue.
+
+15:24
+So we are,, as we have sent out a test build for that to like three folks for the next upcoming, if someone has the same issue, what we do with them, like, are we rolling it out in the next build or to them, we send the same like test file.
+
+15:40
+So,, I mean, if someone says that,, it's, they're facing it and we, I mean, we, what we can do is we can ask them that if they are open to trying this new build, It's not released yet, not released to everyone yet.
+
+15:58
+We can ask them if they're open to it.
+
+16:00
+We can share it with them.
+
+16:02
+So I did that with Priyanka yesterday.
+
+16:05
+She hasn't come back yet.
+
+16:06
+So she, she said I am seeing this.
+
+16:10
+So I shared this, she'll come back probably today.
+
+16:13
+You can follow this same same approach or if the user is not, if you're not sure if our user will react to this, ask them to wait.
+
+16:27
+OK.
+
+16:27
+Most of them are helpful.
+
+16:29
+So it will not be a problem if you ask them to try the test build.
+
+16:32
+So feel free to share it with them, but this is not official is what you have to call out.
+
+16:39
+OK?
+
+16:39
+Got it, got it.
+
+16:40
+And the not assigned issue in that if the endpoint is not visible.
+
+16:45
+We do the on boarding.
+
+16:46
+we like share the endpoint again with them or what?
+
+16:54
+Sorry.
+
+16:56
+So you're asking if, if they're not seeing an end point?
+
+16:59
+Yeah, we have to just pick up the, I mean, we, so the on boarding was missed for that person.
+
+17:05
+So we just go here and look for the end point for example and create one for them.
+
+17:15
+Yeah, I mean, it's usually assigning one here.
+
+17:18
+Mhm OK.
+
+17:26
+So like like for example, this one look at this the when you look at sessions, you see that she's trying to connect several times.
+
+17:36
+This is pro this is related to that getting disconnected issue.
+
+17:41
+OK.
+
+17:42
+This is the new build.
+
+17:44
+She has tried to reconnect to solve this.
+
+17:47
+The reconnect should solve this basically, right?
+
+17:51
+Got it.
+
+17:51
+Got it.
+
+17:58
+So yeah, a anything if you find in the docs, I mean, so one update I have made after speaking to Achilles there, the installation messages were not there.
+
+18:07
+So I've added them here but anything more you want added, please let me know.
+
+18:10
+I'll add them.
+
+18:12
+This is the document that goes out to them.
+
+18:16
+Mhm Yeah, just about it.
+
+18:20
+If I find anything more, I'll let you know.
+
+18:23
+Yeah.
+
+18:23
+Yeah.
+
+18:23
+Yeah, please.
+
+18:24
+I've just added these steps the first one after you mentioned, I've also added the remaining top issues.
+
+18:31
+But yes, anything missing, let me know.
+
+18:33
+Yeah, sure.
+
+18:34
+One action item I have is that,, I have to,, on board Kari for the, this,, I think the end points, I've tried it once,, once or twice but it didn't happen.
+
+18:48
+So I, why didn't it happen?
+
+18:51
+Him want you?
+
+18:52
+She just didn't know.
+
+18:53
+Yeah, once, once, what happened was that,,, she said she was busy,, training some folks.
+
+19:00
+, on the second occasion, what happened was the so I asked her that I shared her, shared the steps with her.
+
+19:10
+But later, she said, yeah, she would do it.
+
+19:13
+But later it turned out that that person already was on boarded.
+
+19:17
+So she didn't have to do it.
+
+19:18
+I mean, not her fault because one of us had already added that person garden.
+
+19:24
+She has the details how to, how to do it, but she has not done it yet.
+
+19:29
+Got it, got it, got it understood.
+
+19:35
+a I think, how do you feel about it?
+
+19:37
+Like, do you feel comfortable?
+
+19:40
+Yeah.
+
+19:40
+Yeah.
+
+19:40
+I think with these issues, I'll be comfortable to like give a solution out.
+
+19:48
+And then actually just if there are any more issues.
+
+19:53
+Yeah.
+
+19:53
+Yeah.
+
+19:53
+Yeah.
+
+19:53
+Just if there are any more issues, just tell them that we'll circle back and like never commit like a definitive timeline on like if there's a feature request or something, you'll have to apply the judgment, like you have to talk to the DEV team before making any time commitments or anything, right?
+
+20:11
+Like, so the buy needs to come from the Dev team.
+
+20:13
+So just make sure that you're never giving any sort of time commitments on anything.
+
+20:17
+Ok.
+
+20:18
+Ok.
+
+20:19
+What's the channel that the que the support request pops up on?
+
+20:24
+This is I just added you there?
+
+20:27
+Ok.
+
+20:27
+Ok.
+
+20:30
+Yeah, I think you should.
+
+20:35
+So generally is the solution given like on the same thread or it's usually, so usually, it's a mix.
+
+20:45
+If you know exactly what needs to be done, see if you can explain, explain it over text.
+
+20:53
+But if not, just hop on a quick call.
+
+20:57
+Usually these calls are like what amount you 5 to 10 minutes or more?
+
+21:01
+Five minutes max.
+
+21:03
+OK.
+
+21:04
+Got it.
+
+21:05
+You just send them a meet link on the, so you want to just show achilles like a sample response that you would have done?
+
+21:22
+Yeah.
+
+21:22
+So, this is Ash whose sessions we just saw, I first checked locally if there were any issues connected to the secure tunnel and then when they were done I got on a call with her.
+
+21:43
+OK.
+
+21:44
+So this one, this particular case, it turned out that this website was a problem.
+
+21:50
+And, unfortunately, we spent a lot of time trying to figure this out, because she also spent a lot of time checking the backend logs, everything, but it was just this one website.
+
+22:01
+Ok.
+
+22:01
+OK.
+
+22:04
+Sometimes it is we try to troubleshoot.
+
+22:07
+So there's some users who are not so comfortable with their macs or windows.
+
+22:12
+So it is an installation issue.
+
+22:14
+So in those cases, we try to ask them first, what is the error they are seeing here?
+
+22:21
+OK.
+
+22:22
+Yes, sir.
+
+22:25
+So for example, this particular case, the user said that I'm not able to connect to adaptive, it is not connecting.
+
+22:34
+So I'm, I was not able to connect, then I shared the document with her.
+
+22:40
+And when we finally connected, it turned out that the app was not installed, the plug in was not installed.
+
+22:45
+So it's just about.
+
+22:48
+So for some cases, you just have to share them, share with them, the relevant do here.
+
+22:53
+OK.
+
+22:54
+Got it.
+
+22:54
+Got it.
+
+22:57
+I think just can I just go through the channel?
+
+22:59
+You're on the channel now?
+
+23:00
+So you have your messages to go through the channel.
+
+23:03
+But yeah, I think most likely whatever issues on you highlighted it, it should be amongst those.
+
+23:11
+And if it's not, then then just tell them that we'll circle back and then you have to look at someone from the side.
+
+23:18
+Typically, they generally, they are very helpful and accommodating and they don't complain much when, when it is not the case you will know.
+
+23:28
+But most of the time it is smooth so you can either solve it or you say come we will come back and so it doesn't become a burning issue right now.
+
+23:39
+OK.
+
+23:39
+Got it.
+
+23:41
+So Achilles I would recommend setting up a call with either today or tomorrow, get him up to speed on this.
+
+23:48
+I'll share the video zoom video with you but share the video but not before or after your call, you can decide that yourself.
+
+24:01
+Ok.
+
+24:01
+Ok.
+
+24:02
+Oops.
+
+24:03
+Yeah, share, share with me the link also.
+
+24:05
+I will also join I'm available.
+
+24:08
+Yeah, when you're doing it, maybe if the man is online just look in a man as well, right?
+
+24:13
+Yeah, that would be helpful.
+
+24:14
+Definitely.
+
+24:15
+Thanks man.
+
+24:16
+Yeah.
+
+24:16
+And any gaps you find while you are getting up to speed, let me know we can m this and we're all there on the channel.
+
+24:27
+Ok.
+
+24:28
+So, so we'll see it as well.
+
+24:33
+OK.
+
+24:33
+I think for, for the time division, Ronak, it would be like we'll do it in like three times throughout the day.
+
+24:41
+We can divide it.
+
+24:42
+Yeah.
+
+24:42
+So what I'm thinking is you and Chennai can basically divide, you can take the first half, which is more India friendly, right?
+
+24:50
+And then the second half can be taken by Chennai most times like you won't see a lot of stuff it's just,, will be on the stand by and then usually there's diversi myself as well in the channel.
+
+25:04
+So we, we, we are also around.
+
+25:06
+Ok.
+
+25:07
+Ok.
+
+25:07
+Yeah, that should be good.
+
+25:09
+We just need to make sure that, like, let's say within some acceptable time frame, right?
+
+25:14
+Like within 30 minutes there's always an acknowledgment or, or, or something that goes out to them.
+
+25:20
+Yeah.
+
+25:20
+Yeah.
+
+25:21
+The all, if, for whatever reason, I think like we'll have dedicated times.
+
+25:30
+Like you can take the first of Chin me and take the second hour for whatever reason, let's say you're up and you don't see Chin Mes message within 30 minutes then like jump on it and me and de she will do it as well, vice versa.
+
+25:43
+So you just have redundancies built into the process.
+
+25:46
+Yeah.
+
+25:46
+Yeah, definitely.
+
+25:47
+Cool.
+
+25:49
+Awesome.
+
+25:51
+Cool guys.
+
+25:52
+I think this is helpful.
+
+25:53
+I want to thanks a lot for this.
+
+25:54
+I think this is we don't see the issues as much anymore, but I think having more redundancies in the team like that way, it won't be too, too chaotic for anyone.
+
+26:06
+Yes.
+
+26:06
+Yes.
+
+26:07
+Also, I think it will help when we roll out this update, it was planned to be rolled out a few weeks back, but it hasn't gone out.
+
+26:16
+So when we roll out that I think it will help to have more people here.
+
+26:19
+Sure.
+
+26:20
+Sure.
+
+26:22
+For the asset scan.
+
+26:23
+Yeah, makes sense.
+
+26:24
+When are we rolling that out?
+
+26:25
+, I, I don't know, I have to follow up,, that it was scheduled for,, last week or the one before that, but it hasn't happened.
+
+26:35
+I think there's some open item there.
+
+26:37
+Ok.
+
+26:37
+Ok.
+
+26:38
+Got it, got it, got it cool.
+
+26:40
+Cool.
+
+26:40
+No, sounds good.
+
+26:41
+Right?
+
+26:43
+Ok, good.
+
+26:43
+Thank you.
+
+26:44
+Thanks guys.
+
+26:46
+Bye bye bye.

@@ -1,0 +1,400 @@
+24 Examples Of Big Data Analytics In Healthcare That Can Save People
+By Bernardita Calzon in Business Intelligence, Jun 16th 2023
+
+Big data in healthcare holds a great power in store and can help hospitals and medicine in general greatly, and this picture shows abstract graphics that represent this idea
+Table of Contents
+
+1) What Is Big Data In Healthcare?
+
+2) Top Big Data Applications In Healthcare
+
+3) How To Use Big Data In Healthcare
+
+4) Why Use Big Data Analytics In Healthcare
+
+5) Obstacles Of Big Data In Healthcare
+
+Big data has changed how we manage, analyze, and leverage data across industries. One of the most notable areas where data analysis is making big changes is healthcare.
+
+In fact, healthcare analytics has the potential to reduce costs of treatment, predict outbreaks of epidemics, avoid preventable diseases, and improve the quality of life in general. The average human lifespan is increasing across the world population, which poses new challenges to today’s treatment delivery methods. Health professionals, just like business entrepreneurs, are capable of collecting massive amounts of data and looking for the best strategies to use these numbers.
+
+In this article, we’re going to address the need for big data in healthcare and hospital big data: why and how can it help? What are the obstacles to its adoption? We will then look at 24 big data examples in healthcare that already exist and that medical-based institutions can benefit from.
+
+But first, let’s examine the core concept and role of big data in healthcare.
+
+What Is Big Data In Healthcare?
+A big data in healthcare example of a modern patient dashboard
+Big data in healthcare is a term used to describe massive volumes of information created by the adoption of digital technologies that collect patients' records and help in managing hospital performance; otherwise too large and complex for traditional technologies.
+
+The application of big data analytics in healthcare has a lot of positive and also life-saving outcomes. In essence, big-style data refers to the vast quantities of information created by the digitization of everything that gets consolidated and analyzed by specific technologies. Applied to healthcare, it will use specific health data of a population (or of a particular individual) and potentially help to prevent epidemics, cure diseases, cut down costs, etc.
+
+Now that we live longer, treatment models have changed, and many of these changes are namely driven by data. Doctors want to understand as much as they can about a person and, as early in their life as possible, to pick up warning signs of serious illness as they arise – treating any disease at an early stage is far more simple and less expensive. By utilizing key performance indicators in healthcare and healthcare data analytics, prevention is better than cure, and managing to draw a comprehensive picture of someone will let insurance provide a tailored package. This is the industry’s attempt to tackle the siloes problems a patient’s data has: everywhere are collected bits and bites of it and archived in hospitals, clinics, surgeries, etc., with the impossibility of communicating properly. 
+
+That said, the amount of sources from which health professionals can gain insights from their patients keeps growing. This data is normally coming in different formats and sizes, which presents a challenge to the user. However, the current focus is no longer on how “big” the data is but on how smartly it is managed. With the help of the right technology, data can be extracted from the following sources of the healthcare industry in a smart and fast way: 
+
+Patients portals 
+Research studies 
+EHRs
+Wearable devices
+Search engines
+Generic databases 
+Government agencies 
+Payer records 
+Staffing schedules 
+Patient waiting room 
+Indeed, for years gathering huge amounts of data for medical use has been costly and time-consuming. With today’s always-improving technologies, it becomes easier not only to collect such data but also to create comprehensive healthcare reports and convert them into relevant critical insights that can then be used to provide better care. This is the purpose of healthcare data analysis: using data-driven findings to predict and solve a problem before it is too late, but also assess methods and treatments faster, keep better track of inventory, involve patients more in their own health, and empower them with the tools to do so.
+
+24 Big Data Applications In Healthcare
+24 Big data in healthcare applications of the real world 
+Now that you understand the importance of big data in the healthcare industry let’s explore 24 real-world applications that demonstrate how an analytical approach can improve processes, enhance patient care, and, ultimately, save lives.
+
+1) Patients Predictions For Improved Staffing
+For our first example of big data in healthcare, we will look at one classic problem that any shift manager faces: how many people do I put on staff at any given period? If you put on too many workers, you run the risk of having unnecessary labor costs add up. With too few workers, you can have poor customer service outcomes – which can be fatal for patients in that industry.
+
+Healthcare data analytics help predict the number of patients to improve staffing. This image shows an available medical professional measuring patients' blood pressure. 
+Big data is helping to solve this problem, at least at a few hospitals in Paris. A white paper by Intel details how four hospitals that are part of the Assistance Publique-Hôpitaux de Paris have been using data from a variety of sources to come up with daily and hourly predictions of how many patients are expected to be at each facility.
+
+One of the key data sets is 10 years’ worth of hospital admissions records, which data scientists crunched using “time series analysis” techniques. These analyses allowed the researchers to see relevant patterns in admission rates. Then, they could use machine learning to find the most accurate algorithms that predicted future admissions trends.
+
+Summing up the product of all this work, the data science team developed a web-based user interface that forecasts patient loads and helps in planning resource allocation by utilizing online data visualization that reaches the goal of improving the overall patients' care.
+
+2) Electronic Health Records (EHRs)
+It’s the most widespread application of big data in medicine. Every person has their own digital record, which includes demographics, medical history, allergies, laboratory test results, etc. Records are shared via secure information systems and are available for providers from both the public and private sectors. Every record is comprised of one modifiable file, which means that doctors can implement changes over time with no paperwork and no danger of data replication.
+
+EHRs can also trigger warnings and reminders when a patient should get a new lab test or track prescriptions to see if he or she has been following doctors’ orders.
+
+Although EHR is a great idea, many countries still struggle to implement them fully. U.S. has made a major leap, with 94% of hospitals adopting EHRs according to this HITECH research, but the EU still lags behind. However, an ambitious directive drafted by the European Commission is supposed to change it.
+
+Kaiser Permanente is leading the way in the U.S. and could provide a model for the EU to follow. They’ve fully implemented a system called HealthConnect that shares data across all of their facilities and makes it easier to use EHRs. A McKinsey report on big data healthcare analytics states that “The integrated system has improved outcomes in cardiovascular disease and achieved an estimated $1 billion in savings from reduced office visits and lab tests.”
+
+3) Real-Time Alerting
+Other examples of data analytics in healthcare share one crucial functionality – real-time alerting. In hospitals, Clinical Decision Support (CDS) software analyzes medical data on the spot, providing health practitioners with advice as they make prescriptive decisions.
+
+However, doctors want patients to stay away from hospitals to avoid costly in-house treatments. This is already trending as one of the business intelligence buzzwords in 2021 and has the potential to become part of a new strategy. Wearables will collect patients’ health data continuously and send this data to the cloud.
+
+Additionally, this information will be accessed to the database on the state of health of the general public, which will allow doctors to compare this data in a socio-economic context and modify the delivery strategies accordingly. Institutions and care managers will use sophisticated tools to monitor this massive data stream and react every time the results will be disturbing.
+
+For example, if a patient’s blood pressure increases alarmingly, the system will send a live alert to the doctor, who will then take action to reach the patient and administer measures to lower the pressure.
+
+Another example is that of Asthmapolis, which has started to use inhalers with GPS-enabled trackers in order to identify asthma trends both on an individual level and looking at larger populations. This data is being used in conjunction with data from the CDC in order to develop better treatment plans for asthmatics.
+
+4) Enhancing Patient Engagement
+Many consumers – and hence, potential patients – already have an interest in smart devices that record every step they take, their heart rates, sleeping habits, etc., on a permanent basis. All this vital information can be coupled with other trackable data to identify potential health risks lurking. Chronic insomnia and an elevated heart rate can signal a risk for future heart disease, for instance. Patients are directly involved in the monitoring of their own health, and incentives from health insurance can push them to lead a healthy lifestyle (e.g., giving money back to people using smartwatches).
+
+Another way to do so comes with new wearables under development, tracking specific health trends and relaying them to the cloud where physicians can monitor them. Patients suffering from asthma or blood pressure could benefit from it, become a bit more independent and reduce unnecessary visits to the doctor.
+
+5) Prevent Opioid Abuse In The US
+Our fifth example of big data healthcare is tackling a serious problem in the US. Here’s a sobering fact: as of this year, overdoses from misused opioids have caused more accidental deaths in the U.S. than road accidents, which were previously the most common cause of accidental death.
+
+Analysis expert Bernard Marr writes about the problem in a Forbes article. The situation has gotten so dire that Canada has declared opioid abuse to be a “national health crisis,” and President Obama earmarked $1.1 billion dollars for developing solutions to the issue while he was in office.
+
+Once again, an application of big data analytics in healthcare might be the answer everyone is looking for: data scientists at Blue Cross Blue Shield have started working with analytical experts at Fuzzy Logix to tackle the problem. Using years of insurance and pharmacy data, Fuzzy Logix analysts have been able to identify 742 risk factors that predict with a high degree of accuracy whether someone is at risk for abusing opioids.
+
+Healthcare big data can help in the fight against opioids abuse in the US and this image shows many pills stacked on a pile
+To be fair, reaching out to people identified as “high risk” and preventing them from developing a drug issue is a delicate undertaking. However, this project still offers a lot of hope for mitigating an issue that is destroying the lives of many people and costing the system a lot of money.
+
+6) Using Health Data For Informed Strategic Planning
+The use of big data in healthcare allows for strategic planning thanks to better insights into people’s motivations. Care managers can analyze check-up results among people in different demographic groups and identify what factors discourage people from taking up treatment.
+
+The University of Florida made use of Google Maps and free public health data to prepare heat maps targeted at multiple issues, such as population growth and chronic diseases. Subsequently, academics compared this data with the availability of medical services in most heated areas. The insights gleaned from this allowed them to review their delivery strategy and add more care units to the most problematic areas.
+
+7) Big Data Might Just Cure Cancer
+Another interesting example of the use of big data in healthcare is the Cancer Moonshot program. Before the end of his second term, President Obama came up with this program that had the goal of accomplishing 10 years’ worth of progress toward curing cancer in half that time.
+
+Medical researchers can use large amounts of data on treatment plans and recovery rates of cancer patients in order to find trends and treatments that have the highest rates of success in the real world. For example, researchers can examine tumor samples in biobanks that are linked up with patient treatment records. Using this data, researchers can see things like how certain mutations and cancer proteins interact with different treatments and find trends that will lead to better outcomes.
+
+This data can also lead to unexpected benefits, such as finding that Desipramine, which is an antidepressant, has the ability to help cure certain types of lung cancer.
+
+However, in order to make these kinds of insights more available, patient databases from different institutions, such as hospitals, universities, and nonprofits, need to be linked up. Then, for example, researchers could access patient biopsy reports from other institutions. One of the potential big data use cases in healthcare would be genetically sequencing cancer tissue samples from clinical trial patients and making these data available to the wider cancer database.
+
+But, there are a lot of obstacles in the way, including:
+
+Incompatible data systems. This is perhaps the biggest technical challenge, as making these data sets able to interface with each other is quite a feat.
+Patient confidentiality issues. There are differing laws state by state which govern what patient information can be released with or without consent, and all of these would have to be navigated.
+Simply put, institutions that have put a lot of resources and money into developing their own cancer dataset may not be eager to share it with others, even though it could lead to a cure much more quickly.
+However, as an article by Fast Company states, there are precedents to navigating these types of problems and roadblocks while accelerating progress toward curing cancer using the strength of data analysis.
+
+8) Predictive Analytics In Healthcare
+We have already recognized predictive analysis as one of the biggest business intelligence trends for two years in a row, but the potential applications reach far beyond business and much further into the future. Optum Labs, a US research collaborative, has collected EHRs of over 30 million patients to create a database for predictive analysis tools that will improve the delivery of care.
+
+The goal of healthcare online business intelligence is to help doctors make data-driven decisions within seconds and improve patients’ treatment. This is particularly useful in the case of patients with complex medical histories suffering from multiple conditions. New BI solutions and tools would also be able to predict, for example, who is at risk of diabetes and thereby be advised to make use of additional screenings or weight management.
+
+9) Reduce Fraud And Enhance Security
+Some studies have shown that 93% of healthcare organizations have experienced a data breach. The reason is simple: personal data is extremely valuable and profitable on the black market. And any breach would have dramatic consequences. With that in mind, many organizations started to use analytics to help prevent security threats by identifying changes in network traffic or any other behavior that reflects a cyber-attack. Of course, big data has inherent security issues, and many think that using it will make organizations more vulnerable than they already are. But advances in security, such as encryption technology, firewalls, anti-virus software, etc., answer the need for more security, and the benefits brought largely overtake the risks.
+
+Likewise, it can help prevent fraud and inaccurate claims in a systemic, repeatable way. Analytical tools help to streamline the processing of insurance claims, enabling patients to get better returns on their claims and caregivers to be paid faster. For instance, the Centers for Medicare and Medicaid Services said they saved over $210.7 million in fraud in just a year.
+
+10) Telemedicine
+Telemedicine has been present on the market for over 40 years, but only today, with the arrival of online video conferences, smartphones, wireless devices, and wearables, has it been able to come into full bloom. The term refers to the delivery of remote clinical services using technology.
+
+It is used for primary consultations and initial diagnosis, remote patient monitoring, and medical education for health professionals. Some more specific uses include telesurgery – doctors can perform operations with the use of robots and high-speed real-time data delivery without physically being in the same location as a patient.
+
+Clinicians use telemedicine to provide personalized treatment plans and prevent hospitalization or re-admission. Such use of healthcare data analytics can be linked to the use of predictive analytics, as seen previously. It allows clinicians to predict acute medical events in advance and prevent the deterioration of patients’ conditions.
+
+By keeping patients away from hospitals, telemedicine helps to reduce costs and improve the quality of service. Patients can avoid waiting in lines, and doctors don’t waste time on unnecessary consultations and paperwork. Telemedicine also improves the availability of care as patients’ states can be monitored and consulted anywhere and anytime.
+
+11) Integrating Big-Style Data With Medical Imaging
+Medical imaging is vital, and each year in the US, about 600 million imaging procedures are performed. Analyzing and storing these images manually is expensive both in terms of time and money, as radiologists need to examine each image individually, while hospitals need to store them for several years.
+
+Medical imaging provider Carestream explains how big data analytics for healthcare could change how images are read: algorithms developed analyzing hundreds of thousands of images could identify specific patterns in the pixels and convert them into a number to help the physician with the diagnosis. They even go further, saying that it could be possible that radiologists will no longer need to look at the images but instead analyze the outcomes of the algorithms that will inevitably study and remember more images than they could in a lifetime. This would undoubtedly impact the role of radiologists, their education, and the required skillset.
+
+12) A Way To Prevent Unnecessary ER Visits
+Saving time, money, and energy using big data analytics for healthcare is necessary. What if we told you that over the course of 3 years, one woman visited the ER on more than 900 occasions? That situation is a reality in Oakland, California, where a woman who suffers from mental illness and substance abuse went to a variety of local hospitals on an almost daily basis.
+
+This woman’s issues were exacerbated by the lack of shared medical records between local emergency rooms, increasing the cost to taxpayers and hospitals and making it harder for this woman to get good care. As Tracy Schrider, who coordinates the care management program at Alta Bates Summit Medical Center in Oakland, stated in a Kaiser Health News article:
+
+“Everybody meant well. But she was being referred to three different substance abuse clinics and two different mental health clinics, and she had two case management workers both working on housing.  It was not only bad for the patient, it was also a waste of precious resources for both hospitals.”
+
+In order to prevent future situations like this from happening, Alameda County hospitals came together to create a program called PreManage ED, which shares patient records between emergency departments.
+
+This system lets the ER staff know things like:
+
+If the patient they are treating has already had certain tests done at other hospitals, what the results of those tests are.
+If the patient in question already has a case manager at another hospital, prevent unnecessary assignments.
+What advice has already been given to the patient so that a coherent message to the patient can be maintained by providers?
+This is another great example where the application of healthcare data analysis is useful and needed. In the past, hospitals without PreManage ED would repeat tests over and over, and even if they could see that a test had been done at another hospital, they would have to go old school and request or send long fax just to get the information they needed.
+
+13) Smart Staffing & Personnel Management
+Without a cohesive, engaged workforce, patient care will dwindle, service rates will drop, and mistakes will happen. But with big data tools in healthcare, it’s possible to streamline your staff administration activities in a wealth of key areas. By working with the right HR analytics, it’s possible for time-stretched medical institutions to optimize staffing while forecasting operating room demands, streamlining patient care as a result.
+
+Too often, there is a significant lack of fluidity in healthcare institutions, with staff distributed in the wrong areas at the wrong time. This imbalance of personnel administration could mean a particular department is either too overcrowded with staff or lacking staff when it matters most, which can develop risks of lower motivation for work and increases the absenteeism rate. An HR dashboard, in this case, may help:
+
+Employee performance depicted with business intelligence reporting processes
+**click to enlarge**
+
+Through data-driven analytics, it’s possible to predict when you might need staff in particular departments at peak times while distributing skilled personnel to other areas within the institution during quieter periods.
+
+Moreover, medical data analysis will empower senior staff or operatives to offer the right level of support when needed, improve strategic planning, and make vital staff and personnel management processes as efficient as possible.
+
+14) Learning & Development
+Expanding on our previous point, in a hospital or medical institution, the skills, confidence, and abilities of your staff can mean the difference between life and death. Naturally, doctors and surgeons are highly skilled in their areas of expertise. But most medical institutions have a range of people working under one roof, from porters and admin clerks to cardiac specialists and brain surgeons.
+
+In healthcare, soft skills are almost important as certifications. To keep the institution running at optimum capacity, you have to encourage continual learning and development. By keeping track of employee performance across the board while keeping a note of training data, you can use healthcare data analysis to gain insight into who needs support or training and when. If everyone is able to evolve with the changes around them, you will save more lives — and medical data analytics will help you do just that.
+
+15) Advanced Risk & Disease Control
+Big data and healthcare analytics are essential for tackling the hospitalization risk for specific patients with chronic diseases. It can also help prevent deterioration.
+
+By drilling down into insights such as medication type, symptoms, and the frequency of medical visits, among many others, it’s possible for healthcare institutions to provide accurate preventative care and, ultimately, reduce hospital admissions. Not only will this level of risk calculation result in reduced spending on in-house patient care, but it will also ensure that space and resources are available for those who need it most. This is a clearcut example of how analytics in healthcare can improve and save people’s lives.
+
+As a result, big data for healthcare can improve the quality of patient care while making the organization more economically streamlined in every key area.
+
+16) Suicide & Self-Harm Prevention
+Globally, almost 800,000 people die from suicide every year. Plus, 17% of the world’s population will self-harm during their lifetime. These numbers are alarming. But while this is a very difficult area to tackle, big data uses in healthcare are helping to make a positive change concerning suicide and self-harm. As entities that see a wealth of patients every single day, healthcare institutions can use data analysis to identify individuals that might be likely to harm themselves.
+
+In a 2018 study from KP and the Mental Health Research Network, a mix of EHR data and a standard depression questionnaire identified individuals who had an enhanced risk of a suicide attempt with great accuracy. Utilizing a predictions algorithm, the team found that suicide attempts and successes were 200 times more likely among the top 1% of patients flagged according to specific datasets. Speaking on the subject, Gregory E. Simon, MD, MPH, a senior investigator at Kaiser Permanente Washington Health Research Institute, explained:
+
+“We demonstrated that we can use electronic health record data in combination with other tools to accurately identify people at high risk for suicide attempt or suicide death.”
+
+This essential use case for big data in the healthcare industry really is a testament to the fact that medical analytics can save lives.
+
+“If somebody tortures the data enough (open or not), it will confess anything.” – Paolo Magrassi, former vice president, research director, Gartner.
+
+17) Improved Supply Chain Management
+If a medical institution’s supply chain is weakened or fragmented, everything else is likely to suffer, from patient care and treatment to long-term finances and beyond. That said, the next in our big data in healthcare examples focuses on the value of analytics to keep the supply chain fluent and efficient from end to end.
+
+Leveraging analytical tools to track the supply chain performance metrics and make accurate, data-driven decisions concerning operations as well as spending can save hospitals up to $10 million per year.
+
+Both descriptive and predictive models can enhance decisions for negotiating prices, reducing the variation in supplies, and optimizing the ordering process as a whole. By doing so, medical institutions can thrive in the long term while delivering vital treatment to patients without potentially disastrous delays, snags, or bottlenecks.
+
+18) Financial facility management 
+As you’ve learned by now, data plays a crucial role in today’s society. It has permeated industries across the world to assist in the development of new technologies and innovations. This is especially true in the business landscape, where data-driven initiatives have become a requirement rather than a choice. This is no different in the healthcare industry, which leads us to our next big data application. 
+
+So far, we’ve covered multiple applications related to patients and medical innovation. That said, all of these breakthroughs would not be possible if the finances of the different health organizations wouldn’t be on check. Big data in healthcare provides the necessary tools and knowledge to ensure optimal financial health across facilities, especially for big hospital networks that manage multiple facilities simultaneously. 
+
+When we talk about the financial side of the healthcare industry, we’ll encounter similar KPIs as any other organization, such as net profit, cash flow, etc. However, there are some financial indicators that are unique to this sector. We are talking about drug costs,  claims denial rates, reimbursement rates, and much more. Keeping track of all those indicators is not an easy task; however, organizations that invest in software to collect, arrange and analyze their data will ensure their finances are in check and the facility remains profitable while providing the best care. 
+
+The example below is a hospital network dashboard generated with datapine’s dashboard designer. The template provides a strategic overview of a private hospital network with insights into multiple facilities. With these insights in hand, decision-makers can make informed decisions and spot improvement opportunities to boost their financial efficiency.
+
+Hospital network dashboard as an application of big data in healthcare
+**click to enlarge**
+
+19) Developing New Therapies & Innovations
+The next in our healthcare analytics examples centers on working for a brighter, bolder future in the medical industry. Big data analysis in healthcare has the power to assist in new therapy and innovative drug discoveries. By utilizing a mix of historical, real-time, and predictive metrics as well as a cohesive mix of data visualization techniques, healthcare experts can identify potential strengths and weaknesses in trials or processes.
+
+Moreover, through data-driven genetic information analysis as well as reactionary predictions in patients, big data analytics in healthcare can play a pivotal role in the development of groundbreaking new drugs and forward-thinking therapies. Data analytics in healthcare can streamline, innovate, provide security, and save lives. It gives confidence and clarity, and it is the way forward.
+
+20) Help To Manage And Track Mass Diseases 
+Since it started at the beginning of the year 2020, the COVID-19 pandemic has impacted millions and millions of people around the world. The widespread nature of this virus presented a challenge to the health industry, which found itself trying to learn from it and control it at the same time. In that context, big data played a fundamental role in the response given to this growing disease that made the world stop for years. 
+
+Supported by advanced data management technologies, health experts were able to track in real-time how COVID was spreading, how fast it mutated under different conditions, as well as the effect it was having on the different world economies. This is done by analyzing massive data sets coming from diverse sources, such as medical records as well as individual human behaviors. For instance, looking at how many of them are staying at home, getting on the train, or going to school, as this highly influences how fast the virus spreads. 
+
+Paired to this, technologies such as AI allowed various medical imaging modalities, such as X-rays, tomography, ultrasounds, and others, to provide an earlier diagnosis to patients and prevent the spread of the disease. In fact, in 2020, the EU backed a software called InferRead to facilitate this process. Essentially, this AI-powered software “analyses images of the lungs taken by a CT scanner, identifies the signs of coronavirus, and assesses the lesions. The process would typically require a careful study by an experienced doctor, yet the machine needs only a few seconds”. This level of technology allowed hospitals around Europe to prevent the spread of the virus and, consequently, flatten the curve. 
+
+21) Improved Drug Prescription Processes 
+As seen throughout our list of examples, the vast amount of data that care professionals have at their fingertips has helped revolutionize patient care, disease control, and many others. That said, it is not a surprise that this trend has also spread into the pharmaceutical industry, where it promises to maximize the value of medicines and improve the quality of prescribing. This leads us to our next big data application in healthcare.
+
+One of the companies applying it is Express Scripts, a third-party organization that manages medicines coverage for clients who provide health insurance plans. According to a publication from the Pharmaceutical Journal, the US-based company collected data from 83 million patients, which included everything from patients' clinical and behavioral characteristics, such as someone picking up a prescription, to Tweets directed at the company. With this data in hand, Express Scripts can predict important scenarios, such as who is likely to become addicted to a certain medication or who is not adhering to its treatment. If the last happens, the company immediately sends personalized interventions and support to make sure people adhere to their prescribed treatment. As a result, Express Scripts stated that they cut the non-adherence rate of hepatitis C patients from 8,3% to 4,8%. 
+
+22) Prevent Human Error
+Fraud in the health industry can be considered anything from erroneous billings to inefficiencies that result in wasteful tests or even adding incorrect information to a person's medical record. In fact, the National Health Care Anti-Fraud Association estimates that the financial losses due to healthcare fraud could reach $300 billion in the US alone. This means that around 10% of the total health spending is wasted due to fraud or human error. However, money is not even the biggest concern when it comes to human error and fraud, it's patients’ lives that are put at risk. Prescribing someone with the wrong medicine or treatment can result in long-lasting consequences or even death. 
+
+To avoid this, companies leverage big data and forecasting to identify and prevent fraud or human error quickly. For example, by analyzing massive amounts of prescription patterns, experts are able to detect prescription errors before they occur. The same happens with dosage ranges, tests, and other procedures. In time, this not only allows doctors and caregivers to trust in technology for their decision-making but also saves facilities a big amount of money while providing the best care. 
+
+23) Alerting heart problems through personal devices 
+In 2017, Apple and Stanford Medicine joined forces to carry out one-of-a-kind research called “Apple Heart Study.” They studied the heart rate sensor data of 400.000 Apple Watch users to see if wearable devices could help in detecting irregular heart rates to prevent fatal complications, especially atrial fibrillation (AFib).  
+
+AFib is among the leading causes of strokes across the world. Costing the life of approximately 130.000 people in the US every year, with another 750.000 hospitalizations. That’s because patients that are suffering from AFib often don’t experience any symptoms, so the condition can go unnoticed until it is fatal. 
+
+According to Jeff Williams, Apple’s COO, the motivation to carry out this study was their own customer's testimonies. At the time, he said: “Every week, we receive incredible customer letters about how Apple Watch has affected their lives, including learning that they have AFib. These stories inspire us, and we're determined to do more to help people understand their health”
+
+Apple and Standford Medicine created an app where any Apple Watch users in the US that were over the age of 22 could join the study. If an irregular heart rate were identified, the user would get a notification and a free doctor consultation with an electrocardiogram (ECG) patch for additional monitoring. After 8 months of testing using top-notch technology, in 2019, the results of the study were published. 
+
+Stanford Medicine found that only 0.5% of participants had irregular heart rate notifications, a positive result overall. Of the participants that did receive the notification, 84% were diagnosed with atrial fibrillation at the time of the notification. 34% of the participants that received a notification and followed up with an ECG patch were finally diagnosed with AFib. This last result was not surprising, as AFib can often go undetected. 
+
+Lastly, the study showed that comparisons between Apple Watch pulse detection and ECG patches pulse detection have a 71% positive predictive value. Showing that these devices can help people take charge of their health and, in some cases, save lives. A great testament to the power of big data in healthcare. 
+
+24) Bluetooth helps asthma patients 
+According to the WHO, Asthma affected an estimated 262 million people in 2019 and caused 455 000 deaths globally. People who suffer from asthma can be triggered even by invisible particles in the air, making it a complicated disease to carry. 
+
+With those concerning numbers in mind, a Wisconsin-based digital health company called Propeller Health launched a Bluetooth-powered inhaler that can be connected to a person’s smartphone to collect data about the frequency of asthma attacks and the environmental conditions in which the person was located. 
+
+Once the inhaler is pressed, data about the time and location of the patient’s asthma attack is sent to an app on the phone via a Bluetooth sensor. Doctors can use this data later on to analyze the frequency of the attacks as well as any other factors such as location and weather. Plus, the inhaler is also set to help patients with their medication schedules since taking medication correctly and when expected can significantly decrease the chances of ending up in the emergency room for an attack. 
+
+In fact, research carried out by Propeller Health showed that 330 patients who had attached the Bluetooth sensor to their inhaler experienced 60% fewer asthma-related emergency hospital visits. The company also found that collecting data like this for patients that live in the same town or region can prove even more valuable. Another test of their Bluetooth inhaler sensor showed that in Louisville, Kentucky, asthma attacks were mostly caused by proximity to railroads and utilities. Plus, they found multiple asthma triggers in public areas. The data collected by the sensor is highly valuable to the city as health authorities can use it to prevent asthma from becoming a major issue for their population.  
+
+How To Use Big Data In Healthcare?
+All in all, we’ve noticed three key trends through these 24 examples of healthcare analytics: the patient experience will improve dramatically, including quality of treatment and satisfaction levels; the overall health of the population can also be enhanced on a sustainable basis, and operational costs can be reduced significantly.
+
+Let’s have a look now at concrete examples of big data in healthcare:
+
+a) Big Data In Healthcare Applied On A Hospital Dashboard
+This healthcare dashboard below provides you with the overview needed as a hospital director or as a facility manager. Gathering in one central point all the data on every division of the hospital, the attendance, its nature, the costs incurred, etc., you have the big picture of your facility, which will be of great help to run it smoothly.
+
+Big data in healthcare applied in the form of a hospital KPI dashboard, displaying specific healthcare analytics that help in the management of such facility
+**click to enlarge**
+
+You can see here the most important metrics concerning various aspects: the number of patients that were welcomed in your facility, how long they stayed and where, how much it cost to treat them, and the average waiting time in emergency rooms. Such a holistic view helps top administrators to identify potential bottlenecks, spot trends and patterns over time, and in general, assess the situation. This is key in order to make better-informed decisions that will improve the overall operations performance, with the goal of treating patients better and having the right staffing resources.
+
+b) Big Data Healthcare Application On Patients' Care
+Another real-world application of healthcare big data analytics, our dynamic patient KPI dashboard, is a visually-balanced tool designed to enhance service levels as well as treatment accuracy across departments.
+
+A big data in healthcare application of a patient dashboard displaying relevant metrics related to patient experience and care
+**click to enlarge**
+
+By offering a perfect storm or patience-centric information in one central location, medical institutions can create harmony between departments while streamlining care processes in a wealth of vital areas. For instance, bed occupancy rate metrics offer a window of insight into where resources might be required while tracking canceled or missed appointments will give senior executives the data they need to reduce costly patient no-shows.
+
+Here, you will find everything you need to enhance your level of patient care both in real-time and in the long term. This is a visual innovation that has the power to improve every type of medical institution, big or small.
+
+Why We Need Big Data Analytics In Healthcare
+By looking at our list of most insightful medical big data applications, you should have a notion of how positive the use of analytics can be for this industry. If this is not clear yet, here we will summarize the main points of importance by listing a few benefits of big data in healthcare.  
+
+As mentioned, there’s a huge need for big data in healthcare, especially due to rising costs in nations like the United States. As a McKinsey report states: “After more than 20 years of steady increases, healthcare expenses now represent 17.6 percent of GDP — nearly $600 billion more than the expected benchmark for a nation of the United States’s size and wealth.” This quote leads us to our first benefit. 
+
+Reducing costs 
+
+As stated above, costs are much higher than they should be, and they have been rising for the past 20 years. Clearly, we are in need of some smart, data-driven thinking in this area. And current incentives are changing as well: many insurance companies are switching from fee-for-service plans (which reward using expensive and sometimes unnecessary treatments and treating large amounts of patients quickly) to plans that prioritize patient outcomes
+
+As the authors of the popular Freakonomics books have argued, financial incentives matter – and incentives that prioritize patients' health over treating large amounts of patients are a good thing. Why does this matter?
+
+Well, in the previous scheme, healthcare providers had no direct incentive to share patient information with one another, which made it harder to utilize the power of analytics. Now that more of them are getting paid based on patient outcomes, they have a financial incentive to share data that can be used to improve the lives of patients while cutting costs for insurance companies.
+
+Reducing medical errors 
+
+Physician decisions are becoming more and more evidence-based, meaning that they rely on large swathes of research and clinical data as opposed to solely their schooling and professional opinion. That said, the risk of human error is always a latent threat. Even though doctors are highly trained professionals, they are still human, and the risk of selecting the wrong medication or treatment can potentially risk a person’s life. With the use of big data and the tools that we mentioned throughout this post, professionals can be easily alerted when the wrong medication, test, treatment, or other has been provided and remediate it immediately. In time, this can significantly reduce the rates of medical errors and improve the facility’s reputation.
+
+As in many other industries, data gathering and management are getting bigger, and professionals need help in the matter. This new treatment attitude means there is a greater demand for big data analytics in healthcare facilities than ever before, and the rise of SaaS BI tools is also answering that need.
+
+Optimizing organizational and personnel management
+
+While using data to ensure you are providing the best care to patients is fundamental, there are also other operational areas in which it can assist the health industry. Part of providing quality care is ensuring the facility works optimally, and this can also be achieved with the help of big data. 
+
+By using the right BI software, professionals can gather and analyze real-time data about the performance of their organization in areas such as operations and finances, as well as personnel management. For instance, predictive analytics technologies can provide relevant information regarding admission rates. These insights can help define staffing schedules to cover demand as well as inventory for medical supplies. This way, care facilities can stay one step ahead and ensure that patients are getting the best experience possible. 
+
+Getting this level of insight in such an intuitive way allows managers to redirect resources where they are most needed and optimize areas that are not performing well to ensure the best return on investment possible.
+
+Drive innovation and growth
+
+Our last benefit is one that should be the clearest from the list of applications we provided earlier. The use of big data in the care industry enables professionals to test new technologies, drugs, and treatments to improve the quality of care given to patients and battle diseases that were once thought of as unbeatable.
+
+Thanks to wearable devices that can tell your heart rate, Bluetooth asthma inhalers that gather insights to prevent attacks, and much more, doctors are able to use data to understand how common diseases work and how certain external factors might be affecting entire communities. Through that, they are able to provide personalized quality care to each and every person that goes into a hospital.
+
+There is no denying that the power of big data analytics is saving lives. That being said, the process of managing data requires a lot of effort, and with that comes challenges, which we will discuss below.
+
+Obstacles To A Widespread Big Data Healthcare
+The points mentioned above are just a few of the countless benefits of big data in healthcare. That said, with benefits also come limitations. In order to provide a full picture of the topic, we will now list a few obstacles and healthcare data challenges that organizations can face when implementing analytics into their processes.  
+
+Data integration and storage: One of the biggest hurdles standing in the way of using big data in medicine is how medical data is spread across many sources governed by different states, hospitals, and administrative departments. The integration of these data sources would require developing a new infrastructure where all data providers collaborate with each other.
+
+Data sharing: Equally important is implementing new online reporting software and business intelligence strategy that will allow all relevant users to be connected with the data. Healthcare needs to catch up with other industries that have already moved from standard regression-based methods to more future-oriented ones like predictive analytics, machine learning, and graph analytics. This is done with the help of modern reporting tools such as a dashboard creator that allows anyone to perform advanced analytics with just a few clicks easily. 
+
+Security and privacy: Security and privacy are constant concerns are one of the biggest challenges of big data in healthcare. Daily, hospitals and care centers deal with sensitive patient data that needs to be carefully protected. Taking that into consideration with the fact that the data is coming from many different sources, security can present a challenge for these types of organizations. To avoid this, it is critical to follow law regulations, conduct regular audits to ensure everything is going well, and train employees on data protection best practices. 
+
+Data literacy: Using big data and analytics in healthcare involves many processes and tools to collect, clean, process, manage, and analyze the huge amounts of data available. This requires a level of knowledge and skills that can present a limitation for average users that are not acquainted with these processes. However, while data literacy might have been one of the big disadvantages of big data in healthcare, it is no longer the case. In the past years, various self service BI tools have been developed with the purpose of opening the analytical doors to any type of use without the need for any technical knowledge.  
+
+So, even if these analytical services are not your cup of tea, you are a potential patient, and so you should care about new healthcare analytics applications. Besides, it’s good to take a look around sometimes and see how other industries cope with it. They can inspire you to adapt and adopt some good ideas.
+
+24 Big Data Examples In Healthcare - A Summary
+The industry is changing, and like any other, big-style data is starting to transform it – but there is still a lot of work to be done. The sector slowly adopts the new technologies that will push it into the future, helping it to make better-informed decisions, improve operations, etc. In a nutshell, here’s a short list of the examples we have gone over in this article. With healthcare data analytics, you can:
+
+Predict the daily patients' income to tailor staffing accordingly
+Use Electronic Health Records (EHRs)
+Use real-time alerting for instant care
+Help in preventing opioid abuse in the US
+Enhance patient engagement in their own health
+Use health data for a better-informed strategic planning
+Research more extensively to cure cancer
+Use predictive analytics
+Reduce fraud and enhance data security
+Practice telemedicine
+Integrate medical imaging for a broader diagnosis
+Prevent unnecessary ER visits
+Smart staffing & personnel management
+Learning & development
+Advanced risk & disease management
+Suicide & self-harm prevention
+Improved supply chain management
+Financial facility management
+Developing new therapies & innovations
+Track and control mass diseases 
+Improve the prescription process 
+Mitigate human error 
+Apple can alert people about heart problems
+Bluetooth helps asthma patients
+“Most of the world will make decisions by either guessing or using their gut. They will be either lucky or wrong.” – Suhail Doshi, chief executive officer, Mixpanel.
+
+These 24 real-world examples of data analytics in healthcare prove that medical applications can save lives and should be a top priority of experts across the field. Even now, data-driven analytics facilitates early identification as well as intervention in illnesses while streamlining institutions for swifter, safer, and more accurate patient care. As technology evolves, these invaluable functions can only get stronger – the future of healthcare is here, and it lies in data.
+
+Want to take your healthcare institution to the next level? Start building your own analysis and reports, and improve your healthcare data management with datapine's 14-day free trial!
+
+Search Blog
+
+enter search term
+FOLLOW DATAPINE
+Facebook
+Twitter
+LinkedIn
+Recent Posts
+Top 10 Analytics And Business Intelligence Trends For 2024
+Dec 20th 2023
+
+Check out what BI trends will be on everyone’s lips and keyboards in 2024.
+
+read more
+
+Get Started With Interactive Weekly Reports For Performance Tracking
+Dec 15th 2023
+
+Discover the business boosting power of interactive weekly reports created with professional reporting tools.
+
+read more
+
+Understanding The Value Of Table Graphs & Charts – A Guide With Examples 
+Nov 30th 2023
+
+This complete guide on table charts provides a definition, common types, best practices, and examples. Learn more!
+
+read more
+
+Tags / Categories
+Business Intelligence (45)
+Buzzwords (2)
+Dashboarding (44)
+Data Analysis (59)
+Data Visualization (39)
+Guest Articles (17)
+KPIs (32)
+Market Intelligence (1)
+News (2)
+Real World Stats (4)
+Reporting (50)
+Technology (6)

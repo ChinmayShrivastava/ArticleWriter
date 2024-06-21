@@ -1,0 +1,125 @@
+Our first blog post on the data protection regulations in finance set out the landscape of these important laws. In this second post about data security regulations, we are turning our attention to healthcare.
+
+Healthcare, like other industry sectors, has become part of the new wave of digital transformation. The industry is heavily dependent on digital data, including highly sensitive patient data.
+
+Therefore, healthcare has been the target for cybercrime for many years; health information is a valuable commodity which is not lost on cybercriminals. According to HIPAA Journal, there were over 15 million health data records breached in 2018 in the U.S. alone.
+
+To help control the leak of health data, regulations in the industry attempt to create frameworks and guidelines around securing data and consent in its use. In this article, we look at some of the most well-known regulations that help enforce data protection and privacy in the healthcare industry.
+
+Related Post: Data Security Regulations Overview by Industry: Finance
+
+ 
+
+Disclaimer: This article is meant for introductory guidance only and summarizes the most commonly-cited data security regulations for the healthcare industry. It does neither claim to be an exhaustive list of all currently-applicable data security regulations across the globe, nor does it claim to provide legal/ compliance advice. For a full assessment of your organization’s regulatory context, please consult with a legal/ compliance professional.
+
+ 
+
+Data Security Regulations for Healthcare (PHI)     
+In healthcare, the shared data can be of a particularly sensitive nature. It makes sense that there is robust data protection regulation that focuses on health data or Protected Health Information (PHI). PHI offers great value to any cybercriminal who steals it then sells it on.
+
+ 
+
+A TrustWave report into the value of black market data, sold via darknet sites, found that mean values of $250 per health record were a common occurrence. Regulations around the protection of PHI have their work cut out to control the lucrative exploitation of this valuable resource.
+
+The U.S. has arguably the most robust and mature set of regulations that specifically protect health data, namely the Health Insurance Portability and Accountability Act (HIPAA) and The Health Information Technology for Economic and Clinical Health Act (HITECH).
+
+ 
+
+HIPAA: The Health Insurance Portability and Accountability Act
+HIPAA sets out to create a framework that can be used to apply data protection to health data. It originated back in 1996 but has had several updates since then.
+
+There are 18 identifiers that make up the health data covered by the HIPAA mandate that define what PHI is. These identifiers cover everything from name and geography to biometrics.
+
+There are several rules that comprise HIPAA.
+
+HIPAA Security Rule
+HIPAA Privacy Rule
+HIPAA Transactions and Code Set Rule (TCS)
+HIPAA Unique Identifiers Rule
+HIPAA Enforcement Rule
+HIPAA Breach Notification Rule
+HIPAA Final Omnibus Rule
+Of these five, two are particularly pertinent in data protection. These are the security rule and the privacy rule, as further described below.
+
+ 
+
+1.    HIPAA Security Rule
+The general requirements of this HIPAA Security Rule cover data integrity, confidentiality, and availability of data. This includes using protection such as encryption and robust authentication for data access.
+
+Any and all data that is covered under the 18 identifiers, whether electronic or not, come under the remit of the law. All entities covered by HIPAA must put in place administrative, physical and technical safeguards to protect PHI.
+
+ 
+
+.
+Administrative Safeguards
+This covers the strategic actions needed to protect PHI. So, typically, security policies and business procedures for protecting data. A security policy will set out the methods used in the physical and technical safeguards.
+
+ 
+
+Physical Safeguards
+This is any method that can be used to control the security of physical systems. For example, a physical access control measure, like an electronic security system.
+
+ 
+
+Technical Safeguards
+This covers the technical application of protecting data and is the most complex of the three safeguards. It includes the use of encryption and robust authentication.
+
+There is also coverage of employee compliance training and awareness.
+
+The use of risk assessments by covered entities is part of the security rule. The risk assessments help to identify areas of risk and so inform the use of best practices in those risk areas. This can also help in determining best practices for the HIPAA Privacy Rule.
+
+The Office of Civil Rights (OCR) offers a tool to help with security assessments.
+
+ 
+
+2.    HIPAA Privacy Rule
+The HIPAA Privacy Rule, augmented by the security rule, focuses on the right of the user to control what happens to their health data.
+
+The security requirements of HIPAA cover administration, physical and technical aspects of data protection.
+
+ 
+
+Other HIPAA Rules
+The HIPAA Omnibus rule is another rule that allows the requirements under the two rules above to be applied across all business associate organizations. It is a way of inheriting and disseminating the protection of PHI across an entire vendor ecosystem.
+
+One of the requirements of HIPAA is around breach notifications. The Office for Civil Rights (OCR) manages a website, which is sometimes called the “Wall of Shame”. This site is so-called because health data breaches of over 500 users are displayed for all to see.
+
+The HIPPA Omnibus Rule was an extension of HIPAA in 2013, to add Business Associates of Covered Entities to the list of organizations covered by the regulation. This means the security and privacy requirements of HIPAA are extended to those bodies.
+
+The rule also covers areas such as the sale and marketing of PHI and the use of PHI in research. The rule also set out that genetic information cannot be used for insurance underwriting purposes.
+
+ 
+
+HITECH: The Health Information Technology for Economic and Clinical Health Act
+The focus of HITECH is on electronic health records (EHR). It was enacted in 2009 to cover the proposed increase in the use of electronic versions of PHI, aka ePHI.
+
+The law is applicable to any organization that has set up an Electronic Health Record system. It requires that users are able to:
+
+Have access to their ePHI,
+Assign their ePHI to a third-party recipient, and
+Give consent to use and share ePHI except under three exclusions – for the use of treatment, payment, or health care operations.
+Security audits are mandated by HITECH.
+
+Subtitle D of HITECH covers the security and privacy of ePHI. This section also sets out penalties for violations which can be up to $1.5 million.
+
+HITECH also has a stringent breach notification requirement. Section 13402(e)(4) of the HITECH Act requires that any breaches involving over 500 users must be notified. The OCR post this notice to their public portal.
+
+Although HITECH and HIPAA are separate laws, they do impact each other. HITECH specifically sets out that the technologies used for ePHI should not in any way override the security or privacy requirements of HIPAA.
+
+ 
+
+The UK and Europe
+Although HIPAA does not directly apply to the EU and the UK, other more general data protection regulations such as the General Data Protection Regulation (GDPR) and Data Protection Act 2018 (DPA) are applied to health data.
+
+ 
+
+The GDPR, for example, places “data concerning health” in the ‘special category’ for data. The DPA 2018 closely reflects the requirements of the GDPR.
+
+More information on the privacy and security requirements of the GDPR can be found in previous posts.
+
+ 
+
+Conclusion
+Healthcare providers process some of the most sensitive personal data. It is only right that strict regulations are used to ensure that these data are kept safe.
+
+As the healthcare world becomes even more digitized and technologies like the Internet of Things (IoT) are increasingly used, it is likely the data protection laws in healthcare will be updated.

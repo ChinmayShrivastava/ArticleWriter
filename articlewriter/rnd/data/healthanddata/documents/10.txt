@@ -1,0 +1,77 @@
+Changing Landscape: Federal and State Regulators Focus on Protecting Consumer Health Data
+20 July 2023
+
+Share on LinkedIn
+Share on Twitter
+Print
+Share by Email
+Share
+Back to top
+Recent developments at the federal and state level demonstrate that regulators are focused on protecting consumer health data. Specifically, state and federal regulators want to close the gap between HIPAA-protected data and other consumer health data. HIPAA only regulates protected health information maintained by covered entities such as hospitals, clinics, health care providers, pharmacies, health plans and health care clearinghouses, and their business associates. Consumer health data collected by health apps and connected devices, however, is not necessarily protected by HIPAA. For these reasons, regulators have made it a priority to protect consumer health data as technology continues to advance.
+
+Foley’s cybersecurity and data privacy team provides a high-level overview of recent federal and state developments regarding the privacy and cybersecurity requirements for health data with a focus on applicability, data sale authorizations, and geofencing.
+
+FTC’s Proposed Changes to the Health Breach Notification Rule
+On June 9, 2023, the U.S. Federal Trade Commission (FTC) issued a Notice of Proposed Rulemaking seeking public comments on proposed changes to the Health Breach Notification Rule, with a deadline to submit written public comments on August 8, 2023. Specifically, the FTC would like the public to share their perspectives about how the agency should update the rule to reflect changes in technology, such as health apps and fitness trackers, and how consumers use those products.
+
+In general, the Health Breach Notification Rule seeks to protect consumers’ personal health records (PHR) not subject to protection under HIPAA. The rule requires PHR vendors and PHR-related entities to provide notice to consumers, the FTC, and, in cases involving 500 or more consumers, the media following discovery of a breach.
+
+The proposed changes to the Health Breach Notification Rule include revisions and additions to the definitions to clarify its application to health apps and other technologies not covered by HIPAA. The proposed rule clarifies the definition of “PHR identifiable health information” to make it clear the rule applies to health apps and similar technologies not covered by HIPAA. Further, the proposed rule expands the definition of a “PHR related entity” to expressly include organizations that offer products or services through any online service. The proposed rule also clarifies that a “breach of security” includes an unauthorized acquisition of identifiable health information that occurs as a result of a data security breach or an unauthorized disclosure. Among other things, the proposed rule clarifies what needs to be in a notice to consumers, such as the potential harm stemming from the breach and the names of any third parties that might have acquired the information.
+
+State Consumer Health Data Privacy Landscape
+ 
+
+State legislatures are also focused on protecting consumer health data outside the scope of HIPAA. Washington, Nevada, and Connecticut have passed consumer health data privacy laws and it is likely other states will follow suit. Organizations should monitor these developments to understand their compliance obligations in these states. We highlight some of the interesting aspects of these new laws below.
+
+Washington’s My Health My Data Act
+On April 27, 2023, Washington’s Governor signed HB 1115, entitled the “Washington My Health My Data Act” (MHMDA), a landmark consumer health data privacy law that goes into effect March 31, 2024, for “regulated entities,” and June 30, 2024, for “small businesses.” The Washington Legislature drafted this law in response to the recent Dobbs v. Jackson Women’s Health Organization decision and the 14 states that banned abortion following Dobbs.
+
+The MHMDA applies to “regulated entities” that conduct business in Washington or produce or provide services targeted to consumers in Washington and alone or jointly determine the purpose of collecting, processing, sharing, or selling consumer health data. Notably, unlike other state consumer privacy laws, the law does not contain a revenue threshold and it applies regardless of whether an organization collects consumer health data from a certain number of consumers or derives a certain percentage of revenue from selling consumer health data. Further, the law also applies to any “small business” that collects, processes, sells, or shares consumer health data of less than 100,000 consumers or derives less than 50% of its gross revenue from collecting, processing, selling, or sharing consumer health data, and controls, processes, sells, or shares consumer health data of less than 25,000 consumers. Finally, the law protects Washington residents and any persons whose data is collected within the state of Washington. As such, the MHMDA casts a wide net and will apply to nearly any entity that collects, processes, shares, or sells consumer health data in Washington.
+
+The MHMDA exempts various entities and information, such as government agencies, tribal nations, contracted service providers that process consumer health data on behalf of government agencies, publicly available information, de-identified data in accordance with HIPAA, employee and B2B information, information governed by HIPAA, certain information governed by 42 C.F.R. Part 2, information governed by the Fair Credit Reporting Act, information governed by the Gramm-Leach-Bliley Act (GLBA), and information governed by the Family Educational Rights and Privacy Act (FERPA), among others. Notably, the law does not contain a broad entity-level exemption for HIPAA-regulated entities as these entities should comply with this law to the extent that they maintain consumer health data distinguishable from HIPAA-covered data.
+
+Furthermore, the definition of “consumer health data” is defined broadly as “personal information that is linked or reasonably linkable to a consumer and that identifies the consumer’s past, present or future physical or mental health status.” The law further defines consumer health data in categories, such as:
+
+General health data e.g., (1) individual health conditions, treatment, diseases, or diagnosis; (2) social, psychological, behavioral, or medical interventions; (3) surgeries or procedures; (4) use or purchase of prescribed medication; and (5) bodily functions, vital signs, symptoms, or measurements related to an individual’s physical or mental health status
+Gender-affirming care information
+Reproductive or sexual health information
+Biometric data
+Genetic data
+Precise location information
+Data that identifies a consumer seeking health care services
+Any information that a regulated entity or small business, or their processor, processes to associate or identify a consumer with consumer health data that is derived or extrapolated from non-health information, such as proxy, derivative, inferred, or emergent data by any means, including algorithms or machine learning
+The scope of consumer health data is much broader than protected health information under HIPAA. Notably, the law’s definition of biometric information includes keystroke rhythms or patterns. As such, entities that use any type of keystroke data or similar tracking technologies should proceed with caution as it may be collecting consumer health data subject to the law’s various obligations.
+
+The MHMDA places various obligations on organizations similar to other state consumer privacy laws. However, a couple of obligations are at top of mind for organizations. First, regulated entities and small businesses must obtain authorizations from consumers to sell their data. The data sale authorization requirements are like HIPAA authorizations with a few additional requirements, such as that authorizations expire after one year and the seller or purchaser of consumer health data must retain a copy of all valid authorizations for six years from the date of its signature.
+
+Second, the MHMDA prohibits regulated entities from using geofencing around an entity that provides “in-person healthcare services.” Under the law generally, a geofence is a virtual boundary that is 2,000 feet or less from the perimeter of an entity that provides in-person health care services. The law broadly defines “healthcare services” to include any service used to assess, measure, improve, or learn about a person’s mental or physical health. As such, nontraditional health care entities, such as retailers, that use geofencing technology could potentially violate the law if such technology is used to serve consumers advertisements related to their health care or health care services.
+
+Although the MHMDA goes into effect March 31, 2024, the prohibition on geofencing goes into effect July 23, 2023. Organizations that collect consumer health data in Washington must be ready to comply with this prohibition later this month.
+
+Nevada’s Consumer Health Data Privacy Law
+On June 16, 2023, the Nevada Governor signed SB 370, which creates a health data privacy law to protect consumer health data outside the scope of HIPAA. Nevada’s law will go into effect March 31, 2024. The law applies to a “regulated entity” that conducts business in Nevada or produces or provides products or services that are targeted to consumers in Nevada and determines the purpose and means of processing, sharing, or selling consumer health data. There are many types of entities and information that are exempt from this law, such as HIPAA-regulated entities, GLBA-covered financial institutions and affiliates, certain information governed by 42 C.F.R. Part 2, information governed by FERPA, de-identified data in accordance with HIPAA, publicly available information, information that is used to provide access to or enable gameplay, and information used to identify the shopping habits or interests of a consumer, among others. Like the MHMDA, Nevada’s law protects Nevada residents and any person whose consumer health data is collected in Nevada.
+
+Nevada’s law defines “consumer health data” as “personally identifiable information that is linked or reasonably capable of being linked to a consumer and is used by a regulated entity to identify the health status of the consumer.” Like the MHMDA, Nevada’s law further defines consumer health data in categories and includes, without limitation:
+
+General health data e.g., (1) any health condition or status, disease, or diagnosis; (2) social, psychological, behavioral, or medical interventions; (3) surgeries or other health-related procedures; (4) the use or acquisition of medication; and (5) bodily functions, vital signs, or symptoms
+Gender-affirming care
+Reproductive or sexual health care
+Biometric data
+Genetic data
+Precise location information
+Any consumer health data that is derived or extrapolated from information that is not consumer health data, including but not limited to, proxy, derivative, inferred, or emergent data derived through an algorithm, machine learning, or any other means
+Nevada’s law contains certain exemptions, obligations, and prohibitions, which are quite similar to the MHMDA. Nevada’s law requires written data sale authorizations like the MHMDA and contains a prohibition on geofencing. The law prohibits any person from using geofencing technology “within 1,750 feet of any medical facility” for the purpose of tracking consumers, collecting consumer health data, or sending notifications, messages, or advertisements to consumers related to their health data.
+
+Connecticut Amends the Connecticut Data Privacy Act to Include Consumer Health Data Privacy
+On June 26, 2023, the Connecticut Governor signed off on an amendment to the Connecticut Data Privacy Act (CTDPA) focused on consumer health data, among others. Originally, the amendment related to consumer health data was set to go into effect July 1, 2023, but the Connecticut legislature recently passed the state budget bill, delaying the effective date of the consumer health data provisions. These provisions will now go into effect October 1, 2023. The amendment is like the MHMDA in various ways and below we highlight a couple key requirements.
+
+The amendment to the CTDPA seeks to protect “consumer health data,” which includes any personal data that a controller uses to identify a consumer’s physical or mental health condition or diagnosis. Like the MHMDA, the CTDPA amendment further defines consumer health data in categories, including gender-affirming health data and reproductive or sexual health data. Further, the CTDPA exempts various entities and information from its scope, as we previously addressed.
+
+Again, like the MHMDA, the CTDPA amendment also contains a prohibition on geofencing. The law now prohibits any person from using a geofence to establish a “virtual boundary within 1,750 feet of any mental health facility or reproductive or sexual health facility for the purpose of identifying, tracking, collecting data from or sending any notification to a consumer regarding the consumer’s health data.” As such, organizations that use geofencing or wish to use geofencing technology must determine the purposes for which it is used, including targeted advertising.
+
+Key Takeaways
+Due to the increased focus of federal and state regulators on protecting consumer health data outside the scope of HIPAA, organizations need to monitor these developments if they collect health data as these new requirements will likely require updates to their privacy compliance programs. Specifically, to get started, organizations should conduct a data mapping exercise and assess how they collect, process, sell, or share health data to determine if their current operations will need to be adjusted to meet these new compliance obligations. As we only highlighted a few of the new requirements, organizations that process any consumer health data should review these new laws fully and continuously follow the changing landscape in this space.
+
+For more information about complying with the Health Breach Notification Rule or state consumer health data privacy laws, please contact any of the partners or senior counsel in Foley & Lardner’s Cybersecurity and Data Privacy team.
+
+The authors gratefully acknowledge the contributions of Lauren Hudon, a student at Marquette University Law School and 2023 summer associate at Foley & Lardner LLP.

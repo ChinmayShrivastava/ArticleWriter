@@ -1,0 +1,384 @@
+The healthcare industry suffers some of the highest volumes of cyberattacks and there are whispers of a lot more to come. Combine this trend with breach damage costs surpassing all other industries and you get the thunderous warning of a devastating cyberattack storm approaching the sector.
+
+To help healthcare entities strengthen their cyber resilience, we’ve compiled a list of some of the biggest data breaches in the healthcare industry, ordered by degree of impact.
+
+If you're concerned about your current level of data breach resilience, this cybersecurity guide for the healthcare industry will help.
+
+The 14 Biggest Data Breaches in Healthcare Ranked by Impact
+Each listed event is supported with a summary of the data that was comprised, how the breach occurred, and key learnings to protect you from suffering a similar fate.
+
+1. Tricare Data Breach
+tricare logo
+‍Date: September 2011
+
+Impact: 5 million patients
+
+How did the breach occur?
+Tricare, a healthcare program servicing active-duty troops, their dependents, and military retirees, suffered a significant data breach following the theft of backup tapes of electronic health records. The backups were stolen from the car of an individual responsible for transporting the tapes between facilities. 
+
+It’s unclear whether the criminals possessed the necessary acumen to decrypt the information stored on the tapes, or if they understood what they were stealing. As a necessary precaution, the incident was treated as a data breach.
+
+What data was compromised?
+The following data may have been compromised in the Tricare data breach:
+
+Social security numbers
+Names
+Addresses
+Phone numbers
+Personal health data
+Clinical notes
+Lab tests
+Prescription information
+Learn from this data breach
+Though the data on these backup tapes was encrypted, the encryption method did not align with a particular federal standard. To dampen the impact of data breaches reported to HIPAA, a data encryption policy that aligns with federal standards should be implemented.
+
+Learn how to choose the best healthcare attack surface management product >
+
+2. Community Health Systems Data Breach
+community health system logo
+Date: April-June 2014
+
+Impact: 4.5 million patients
+
+How did the breach occur?
+Cybercriminals believed to be located in China, exploited a software vulnerability by deploying high-sophisticated malware leading to the theft of sensitive patient data. The incident impacted anyone that received treatment from a facility associated with the community health system network in the last 5 years.
+
+What data was compromised?
+The following information was compromised in the Community Health System  data breach:
+
+Names
+Birth dates
+Social Security numbers
+Phone numbers
+Addresses 
+Learn from this data breach
+Teach employees to recognize the warning signs of malware injection attempts and other cyber threats common to healthcare.
+Remediate vulnerabilities commonly abused during malware attacks.
+Regularly refer to the CVE database to remain informed about zero-day exploits impacting popular software solutions.
+3. UCLA Health Data Breach
+UCLA health logo
+‍Date: July 2015
+
+Impact: 4.5 million patients
+
+How did the breach occur?
+UCLA suffered a data breach that is believed to have started in October 2014, but this activity did not appear to have malicious potential. But in May of 2015, a cyberattack involving the compromise of sensitive patient information was confirmed.
+
+What data was compromised?
+The following data was compromised in the UCLA data breach:
+
+Names
+Dates of birth
+Social security numbers
+Medicaid
+Health plan identification numbers
+Some medical data
+Learn from this breach
+UCLA health was issued with a $7.5 million fine for its failure to report the breach in a timely manner, a violation of the breach notification protocol specified under HIPAA.
+
+To prevent such breach reporting delays, it’s important to commit to a thorough investigation whenever suspicious network activity is detected.
+
+4. Advocate Health Care Data Breach
+advocate healthcare logo
+‍Date: August 2013
+
+Impact: 4.03 million patients
+
+How did the breach occur?
+Advocate Health Care fell victim to a series of data breaches following the theft of four personal computers storing unencrypted medical information pertaining to 4.03 million patients.
+
+What data was compromised?
+The following data was compromised in the Advocate Health Care data breach:
+
+Names
+Addresses
+Dates of birth
+Credit card numbers with expiration dates
+Demographic information 
+Clinical information
+Health insurance information
+Learn from this data breach
+The failure to implement the most basic cybersecurity practice of data encryption was a blatant violation of the data protection standards outlined in HIPAA. To send a strong message to other health entities about the implications of such malpractice, Advocate Health Care Network was changed with a $5.55 million fine payable to the Health and Human Services Department.
+
+To prevent such an outcome, physical security controls as specified in ISO 27001 should be implemented to protect internal devices from theft, in addition to encryption practices across all facilities interacting with sensitive data. 
+
+Learn how to choose a healthcare cyber risk remediation product >
+
+5. Medical Informatics Engineering Data Breach
+Medical informatics engineering logo
+‍Date: July 2015
+
+Impact: 3.9 million patients
+
+How did the data breach occur?
+Medical Informatics Engineering (MIE), a developer of electronic medical record software, suffered a data breach impacting at least 11 of its healthcare provider clients.
+
+Cybercriminals accessed one of MIE's servers by using a compromised username and password and maintained undetected access for 19 days. 239 of MIE's clients were impacted by the breach.
+
+What data was compromised?
+The following data may have been compromised in the Medical Informatics Engineering data breach:
+
+Names
+Telephone numbers
+Mailing addresses
+Usernames 
+Hashed passwords
+Security questions and answers
+Spousal information 
+Email addresses
+Dates of birth
+Social security numbers
+Lab results 
+Health insurance policy information
+Diagnosis
+Disability codes
+Doctor names
+Medical conditions 
+Names of children
+Birth statistics
+Learn from this data breach
+The Office for Civil Rights discovered that the breach occurred because MIE violated HIPPA security rule 45 CFR § 164.308 which specifies the requirement for thorough risk analysis to discover potential exposures to personal health identification. Because of this violation, MIE was given a $100,000 fine.
+
+To prevent non-compliance with cybersecurity regulations, and the resulting costly fines, a security solution capable of mapping specific compliance efforts against recognized security frameworks should be implemented.
+
+Cybercriminals were able to effortlessly gain access to MIE’s private network by using compromised credentials. To prevent such an event, a dark web monitoring solution should be implemented to monitor for sensitive data leaks that could include network access credentials.
+
+6. Newkirk Products Data Breach
+newkirk products, inc
+Date: July 2016
+
+Impact: 3.8 million patients
+
+How did the data breach occur?
+Newkirk Products, once of the largest providers of healthcare identification card issuers in the United States, suffered a data breach when cyber criminals gained access to one of its servers. 
+
+Many healthcare entities were impacted by the event, but perhaps the most significant victim that led to such a high impact was insurer Blue Cross Shield, the largest healthcare insurance provider by enrolment. Several Blue Cross Shield branches were associated with the compromised data.
+
+What data was compromised?
+The following data was compromised in the Newkirk products data breach:
+
+Primary care provider information
+Medicaid ID numbers
+Patient names
+Names of dependants
+Dates of birth
+Invoice information
+Learn from this data breach
+Rigorously test server software for security vulnerabilities and misconfigurations.
+Secure all privileged access management protocols.
+Continuously scan servers for potential exploits.
+7. Banner Health Data Breach
+banner health logo 
+Date: Aug 2016
+
+Impact: 3.62 million patients
+
+How did the data breach occur?
+Cybercriminals gained access to one of Banner’s private servers, an intrusion that was discovered upon the discovery of unusual log activity by Banner Health staff.
+
+The compromised server was used to process card payment information from food outlets across different Banner Health locations.
+
+What data was compromised?
+The following data was compromised in the Banner Health data breach:
+
+Patient names
+Addresses
+Birth dates
+Social security information
+Appointment dates
+Physician information
+Health insurance information
+Learn from this data breach
+Ensure third-party vendors comply with mandatory financial regulations to prevent the accessibility of customer payment information through a third-party data breach.
+Ensure continued improvements of security postures across all third-party vendors through regular risk assessments and security rating monitoring.
+8. Trinity Health Data Breach
+Trinity health logo
+Date: May 2020
+
+Impact: 3.3 million patients
+
+How did the data breach occur?
+In May 2020, Blackbaud, Trinity Health’s third-party vendor responsible for storing a backup of its donor database, fell victim to a ransomware attack attempt. Trinity Health, with the support of forensic experts and law enforcement, was able to successfully block the ransomware attack attempt, but not before the hackers exfiltrated a subset of data that included information linked to Trinity Health.
+
+In violation of the F.B.I’s firm stance against cybercriminal compliance, Blackbaud paid the cybercriminal’s demand in exchange for the stolen database alongside a guarantee that any copies of the data would be permanently destroyed.
+
+Because such a guarantee cannot be confirmed, Trinity Health treated the event as a highly probable data breach, ranking this event as the largest data breach in the healthcare industry in 2020.
+
+In 2021, Trinity Health fell victim to another data breach impacting 586,869 patients. This incident was part of a large-scale data breach resulting from a cyberattack against third-party file transfer platform, Accellion.
+
+What data was compromised?
+
+According to Trinity Health, the following patient information was potentially compromised:
+
+Full names
+Addresses
+Email addresses
+Dates of birth
+Healthcare providers
+Dates and types of health care services
+Medical record numbers
+Immunization types
+Lab results 
+Medications
+Claims information
+Certain financial information (excluding credit card information)
+Learn from this data breach
+Implement a third-party vendor attack surface monitoring solution to discover and address vulnerabilities that could potentially facilitate ransomware attacks.
+Never comply with cybercriminal demands. Cooperation is never guaranteed and you’ll still have to treat the event as a potential breach with the addition of negative publicity and major financial losses.
+Blackbaud’s successful interception of the ransomware attack attempt is a testament to its highly optimized incident response plan and awareness of the ransomware attack sequence.
+9. Shields Healthcare Group Data Breach
+shields healthcare group logo
+‍Date: March 2022
+
+Impact: 2 million people
+
+How did the breach occur?
+An unknown cyberattacker gained access to the network server belonging to Shields Healthcare Group from March 7, 2022, to March 21, 2022. The hacker’s presence activated a security alert on March 18; however, after investigating the alert, data compromise was not confirmed at the time.
+
+What data was compromised?
+According to Shield’s security incident notice, data compromise hasn’t yet not been confirmed. However, given the particular private network segments that were accessed by the cybercriminal, the following types of data are at risk of compromise:
+
+Full names
+Social security numbers
+Birth dates
+Home Addresses
+Provider Information 
+Diagnosis Information
+Billing Information
+Insurance numbers
+Medial record numbers
+Patient IDs
+Other medical treatment information
+Learn from this data breach
+Shield’s failure to identify a malicious actor in their network during the initial security alert allowed malicious activity to continue for another three days. A zero-trust approach to cyber threat investigation may have resulted in a more vigorous investigation that would have identified the presence of a data exfiltration backdoor.
+
+Learn how to detect data exfiltration before it’s too late.
+
+10. Broward Health Data Breach
+broward health logo
+Date: January 2022
+
+Impact: 1.3 million patients
+
+How did the data breach occur?
+Broward Health suffered a data breach through a compromised third-party medical provider with access to its patient database.
+
+It’s speculated that the compromised device belonging to Brown Health’s third-party was not implementing Multi-Factor Authentication.
+
+What data was compromised?
+
+The following patient information was compromised in the Broward Health data beach:
+
+Names
+Addresses
+Dates of birth
+Driver’s license numbers 
+Insurance information
+Medical information
+Learn from this data breach
+Implement Multi-Factor Authentication (MFA) across all endpoints
+Secure all Privileged Access Management
+Keep track of all endpoints that connect, and attempt to connect, to your private network
+11. Morley Companies Data Breach
+Morley companies logo
+Date: February 2022
+
+Impact: 521,046 individuals
+
+How did the data breach occur?
+Morley Companies, a third-party provider of business services to Fortune 500 companies including medical industries, suffered a ransomware attack resulting in the exposure of over 521,000 individual records.
+
+What data was compromised?
+The following data was compromised in the Morley Companies data breach:
+
+Names
+Addresses
+Social security numbers
+Dates of birth
+Client identification numbers
+Medical diagnostic and treatment information
+Health insurance information
+Learn from this data breach
+Though the attack began on August 1, 2021, Morley waited until February 2022 to notify potential victims. This significant delay placed Morley at a heightened risk of violating the HIPAA Breach Notification rule - a mistake that could have resulted in a fine of at least $50,000.
+
+Learn more about the HIPAA privacy rule and how to maintain compliance.
+
+Another key learning from this incident is the similar effects between ransomware attacks and data breaches. Ransomware attacks also result in sensitive data exposure when ransom demands are not paid in a timely manner. Because of the similar outcomes between the two events, data breach security controls could also support a defense against ransomware attacks.
+
+12. L’Assurance Maladie Data Breach
+L’Assurance Maladie logo
+Date: March 2022
+
+Impact: 510,000 people
+
+How did the breach occur?
+French insurance body, L’Assurance Maladie, suffered a data breach after 19 accounts, primarily belonging to pharmacists, were compromised.
+
+Hackers likely retrieved the passwords for these accounts from a dark web forum hosting credentials stolen in previous data breaches.
+
+What data was compromised?
+The stolen data included the following:
+
+Names
+Surnames
+Dates of birth 
+Social security numbers
+GP details
+Level of reimbursement 
+Learn from this data breach
+Implement Multi-Factor Authentication to block cyber criminals trying to log in with stolen credentials
+Implement a data leak detection solution to discover and shut down sensitive data exposures posted on the dark web.
+13. ARcare Data Breach
+ARcare logo 
+Date: February 2022
+
+Impact: 345,000 people
+
+How did the breach occur?
+Between January 18, 2022, and February 24, cybercriminals maintained unauthorized access inside ARcare’s computer systems, reviewing and stealing sensitive individual information.
+
+On April 4, it was discovered that some of the stolen data was exposed on the internet. This pattern of behaviour - exposing stolen records shortly after a breach - mirrors that of ransomware attackers, suggesting that the incident may have been a ransomware attack.
+
+What data was compromised?
+The following data was compromised in the breach:
+
+Names
+Social security numbers
+Drivers license numbers
+State identification numbers
+Dates of Birth
+Financial account information
+Medical treatment information
+Prescription information
+Medical diagnosis information
+Condition information
+Health insurance information
+Learn from this data breach
+This incident forced ARcare to review its data security practices and consider superior risk mitigation strategies. These aren’t efforts that should follow a data breach. Instead, they should be firmly established well before a cyber incident occurs. Don’t wait for a data breach to initiate a review of your security protocols; review your incident response plans and implement a third-party risk mitigation strategy ASAP.
+
+14. OneTouchPoint (OTP)
+
+Date: July 2022
+
+Impact: 2.6 million people
+
+How did the breach occur?
+OneTouchPoint is a third-party mailing and printing vendor that provided services mainly to healthcare organizations. OTP first noticed some of its files had been locked and decrypted in July 2022. After investigation, OTP concluded that their systems had been illegally accessed in the months prior. Shortly after, over 30 healthcare providers (including Blue Shield of California, Kaiser Permanente, Anthem, and Blue Cross) that had been clients of OTP began to report data breaches of its medical and patient records.
+
+What data was compromised?
+The following sensitive information was exposed in the breach:
+
+Names
+Addresses
+Birthdays
+Patient medical records (immunizations, allergies, vitals, medication, medical history)
+Patient demographics
+Employee employment dates
+Employee ID numbers
+Service descriptions and dates
+Health assessment test results
+Diagnosis codes
+Learn from this data breach
+Although OTP did not release the exact nature of the breach, the company is currently undergoing a class-action lawsuit by the medical firms claiming that OTP failed to safeguard sensitive medical information that could expose its patients to fraud and theft. Additionally, OTP failed to notify affected organizations and patients on time, despite finding out about the breach months before initial reporting.
+
+To avoid incidents like these, businesses need to do an annual review of their security policies to ensure all safeguards are up to date and equipped to defend against evolving cyber threats. Furthermore, healthcare organizations working with third-party contractors need to ensure their business associates are HIPAA-compliant if they are handling sensitive patient information.

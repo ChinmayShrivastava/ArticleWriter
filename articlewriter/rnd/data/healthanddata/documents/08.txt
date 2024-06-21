@@ -1,0 +1,52 @@
+Understanding the current and future state of complex health data protection laws
+The recent proliferation of digital health has led to data privacy concerns around the collection of sensitive personal health information (PHI). Pharmaceutical Technology looks at key regulations designed to protect consumers in the US and Europe.
+
+May 4, 2023
+Share this article
+
+In April 2023, Washington State Senate passed the My Health, My Data Act designed to protect the “independence and dignity of individuals when making healthcare decisions.” This legislation increases protections regarding the collection, sharing, and sale of health data without the consumer’s knowledge. The Act comes as consumers demand more rights to access, delete, or withdraw consent of their PHI, along with clearer guidelines as to how such data can be used.
+
+Free Whitepaper
+Prescribing Privacy: Patient perspectives on health data
+In a new research report, Cassie spoke directly to US consumers in order to delve into the heart of consumer trust and confidence in the healthcare system’s ability to protect and uphold data, as well as attitudes toward their own understanding of healthcare data...
+
+Read more
+
+
+Enter your work email
+Submit
+Rigorous standards established by governing bodies include consent forms and protocols related to storing and sharing of PHI. Organisations must ensure security systems such as encryption and firewalls protect patient records from unauthorised access. Sanctions for data breaches can be severe, with both loss of confidence in the provider and large fines from regulators.
+
+Compliance in the US – HIPAA
+The Health Insurance Portability and Accountability Act (HIPAA) covers several areas relating to health data, with one of the key requirements being a set of standards – the Privacy Rule and the Security Rule – to protect sensitive PHI from being disclosed without the patient’s consent.
+
+Compliance is regulated by the Department of Health and Human Services and enforced by the Office for Civil Rights (OCR), which delivers annual reports to Congress on compliance and breaches.
+
+Vendors of personal health records and third-party service providers not covered by HIPAA are pursuant to section 13407 of the Health Information Technology for Economic and Clinical Health (HITECH) Act, implemented and enforced by the Federal Trade Commission. This covers businesses with websites and apps that allow individuals to upload information to their medical records.
+
+Importantly, HIPAA does not necessarily consider a security breach to be a violation. Companies follow a set of standards to ensure risk is maintained at an ‘acceptable and appropriate level’ and enforcement occurs when these standards are not met.
+
+When such violations occur, the reputational damage and legal liability companies face for non-compliance can be severe. In February 2023, OCR announced a settlement with Banner Health Affiliated Covered Entities, Phoenix, Arizona, to resolve a data breach resulting from a hacking incident which had disclosed PHI of 2.81 million consumers.
+
+Violations specifically included lack of analysis to determine vulnerabilities to electronic PHI and failure to implement an authentication process to safeguard information. These breaches resulted in Banner Health paying out $1,250,000 to OCR and having to agree to implement a corrective action plan.
+
+European compliance – GDPR
+In Europe, health data protection comes under the remit of the General Data Protection Regulation (GDPR) Recital 35, Health Data. This includes personal information collected during registration or the provision of health care services. Article 9 of the provision states that the subject must give explicit consent to the processing of personal data.
+
+The European Commission has recently proposed an update, the ‘ePrivacy’ regulation which aims at reinforcing trust and security in the digital world. The proposal advocates stronger rules surrounding apps and metadata – data that describes other data and includes names and locations.
+
+As with the US, data breaches in the EU are treated as violations if the company concerned is found to have not followed correct procedures. In May 2022, Dedalus Biologie was fined €1.5 million for a data breach involving nearly 500,000 people. Names, social security data and medical information (including genetic data) were released by bad actors onto the internet.
+
+The French Lead Supervisory Authority identified three breaches, each of which failed to comply with the GDPR (Articles 28, 29, and 32).
+
+New legislation for the UK
+In the UK, the Health Security Agency undertakes health protection activities on behalf of the government. Personal information can be shared with researchers who have approval from a medical ethics committee, but they must have a consumer’s consent or special permission from certain governmental offices. Known as ‘Section 251’, citizens can ‘opt-out’ of this arrangement.
+
+As of April 2023, a new digital data protection rights bill is being progressed through the UK Parliament to replace GDPR following the UK’s departure from the European Union. Designed to increase consumer rights for data and metadata collected by apps, an early draft states that the new bill will enable the UK to strike new data partnerships while “providing clearer definitions on how consent is obtained for research.”
+
+Article 6 of the bill covers the imposition of standards, accreditation, and enforcement (including financial penalties and public censure provision) for the Secretary of State.
+
+The role of CMP software – compliance now and in the future
+In a recent survey by consent management platform (CMP) Cassie, three in four US consumers said that they were concerned about the security of their online health data. Despite this scepticism, the research revealed that most individuals are still willing to share their data with companies they trust.
+
+To give healthcare providers the opportunity to focus on building patient trust, the Cassie CMP software provides full HIPAA and GDPR compliance. Cassie also provides a complete audit trail of all access permissions and changes, providing a convenient way to track, manage, and share data preferences and consents securely.

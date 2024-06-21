@@ -1,0 +1,134 @@
+Why is data privacy important in healthcare?
+Data privacy in healthcare is critical for several reasons. Keeping patients' information secure and confidential helps build trust, which benefits the healthcare system as a whole. Maintaining privacy also helps protect patients' data from bad actors. Breaches can and do occur. The U.S. Department of Health and Human Services Office for Civil Rights keeps track of and investigates the data breaches that occur each year.
+
+Data breaches affect various covered entities, including health plans and healthcare providers. They take the form of email hacks, unauthorized disclosure or access to medical records or email, network server hacks, and theft. Bad actors might want access to patient information for various reasons, such as selling the data for a profit or blackmailing the affected individuals.
+
+Another reason data protection is important in healthcare is that if a health plan or provider experiences a breach, it might be necessary for the organization to pause operations temporarily. Pausing operations can mean patients need to delay or miss out on the care they need. Along with ensuring continued access to healthcare for patients, there are other reasons why your healthcare organization should do whatever it can to protect the privacy of your patient's health information.
+
+1. Avoid noncompliance penalties
+Rules and regulations regarding patient privacy exist for a reason, and the government takes noncompliance seriously. An organization that experiences a breach won't be able to shrug its shoulders and claim ignorance of the rules. Noncompliance penalties vary based on the extent of the issue. If an individual employee at a healthcare organization is responsible for the breach or other privacy issues, the employer might deal with them directly. That can mean the employee is terminated or suspended from their position for a period.
+
+If noncompliance is something that takes place across the organization, the penalties can be more severe. They might include fines, civil charges, or in extreme cases, criminal charges.
+
+The nature of the violation plays a significant role in determining how an individual or organization is penalized. There are four tiers to consider when determining the type of penalty that might apply.
+
+The nature of the violation determines how an individual or organization is penalized
+
+Tier 1
+A tier 1 violation usually occurs through no fault of the covered entity. Often, the entity would not have been able to avoid the violation even by following the rules. Usually, the organization is not initially aware a tier 1 violation has occurred.
+
+The fine for a tier 1 violation is usually a minimum of $100 and can be as much as $50,000. When this type of violation occurs, and the entity is not aware of it or could not have done anything to prevent it, the fine might be waived.
+
+Tier 2
+Tier 2 violations include those an entity should have known about but could not have prevented, even with specific actions. Fines for a tier 2 violation start at $1,000 and can go up to $50,000.
+
+Tier 3
+Tier 3 violations occur due to willful neglect of the rules. Willful neglect means an entity consciously and intentionally did not abide by the laws and regulations. An example of willful neglect occurs when a healthcare organization doesn't hand a patient a copy of its privacy practices when they come in for an appointment but instead expects the patient to track down that information on their own. Another example of willful neglect occurs when an individual working for a covered entity leaves patient information open on their laptop when they are not at their workstation.
+
+Organizations that have committed violations under tier 3 have attempted to correct the issue. For that reason, fines are higher than they are for tier 1 or 2 violations but lower than for tier 4. The minimum fine starts at $10,000 and can be as much as $50,000.
+
+Tier 4
+A tier 4 violation occurs due to willful neglect, and the organization does not attempt to correct it. For example, an organization might continue to refuse to give patients a copy of the privacy practices, or an employee might continue to leave patient information out in the open. Fines for tier 4 violations are at least $50,000.
+
+Criminal violations
+In some cases, a violation can be classified as a criminal violation rather than a civil violation. The penalties for criminal violations are more severe than for civil violations. The Department of Justice handles criminal violations of the Health Insurance Portability and Accountability Act  (HIPAA). 
+
+As with civil violations, criminal violations fall into three tiers. The first tier includes violations such as the knowing disclosure of personal health information. The penalty is a fine of $50,000 and up to a year in prison. The second criminal tier concerns violations committed under false pretenses. The penalty can be a fine of up to $100,000 and up to five years in prison. The third and most severe criminal tier involves violations intending to use, transfer, or profit from personal health information. The penalty is up to $250,000 and up to 10 years in prison.
+
+Financial and criminal penalties are just some of the reasons to protect the privacy of healthcare information. Having to pay fines or spend time in prison also hurts a healthcare organization's reputation, which can have long-lasting effects.
+
+Financial and criminal penalties are just some of the reasons to protect the privacy of healthcare information
+
+2. Build trust with patients and customers
+A patient is likely to share very personal information with a doctor that they wouldn't share with others. It's critical to the trust between a patient and their provider that the provider keeps any health-related information confidential. 
+
+The trust issue occurs on the individual level and on a systemic level. Patients need to be reassured that medical information, such as test results or diagnoses, won't fall into the wrong hands. On the systemic level, people need reassurance the healthcare industry is looking out for their best interests in general. 
+
+It's critical that the provider keeps any health-related information confidential
+
+If healthcare organizations were to become known for revealing details about their patients, such as sharing test results with people's employers or giving pharmaceutical companies data on patients for marketing purposes, trust would erode. People might be less likely to approach medical providers when they have a health concern. Delaying diagnosis and treatment can mean a condition becomes more difficult to cure or treat. It can also increase the chance of an illness spreading within a community.
+
+Ensuring patient privacy also reminds people of their rights as humans. The United Nations' Universal Declaration of Human Rights states that everyone has the right to privacy and that laws should protect against any interference into a person's privacy. Keeping people's health data private reminds them of their fundamental rights as humans, which in turn helps to improve trust between patient and provider.
+
+Rules and regulations of healthcare data privacy
+Several regulations exist that protect the privacy of health data. Examples include the Global Data Protection Regulation (GDPR), which applies to data more generally, and the Health Insurance Portability and Accountability Act (HIPAA) in the U.S. 
+
+HIPAA
+HIPAA was passed in 1996 to create standards that protect the privacy of identifiable health information. Before HIPAA, medical practices, insurance companies, and hospitals followed various laws at the state and federal levels. Some of those laws allowed patient information to be distributed to organizations that had nothing to do with a patient's medical care or medical treatment payment without authorization from the patient or notice given to them.
+
+Before HIPAA, a health insurance company could give a lender or employer patient health information, for example. A lender could deny someone's mortgage application because of health issues, or an employer could decide not to hire someone based on their medical history. 
+
+HIPAA gives patients control over their medical records. If a person is changing jobs and needs to change insurance plans, for instance, they can transfer their records from one health plan to the other with ease without worrying about their personal health information being exposed. The act also allows patients to decide who can access their medical records. A patient might give access to their primary care provider and a team of specialists, for example. They might choose to restrict access to their records to providers who aren't associated with their primary care provider's or specialist's practice.
+
+HIPAA consists of the privacy rule and security rule. The privacy rule dictates who has access to an individual's medical records and what they can do with that information. Under the security rule, a health organization needs to do their due diligence and work to keep patient data secure and safe. The security rule focuses on electronically transmitted patient data rather than information shared orally or on paper.
+
+In addition to HIPAA, there are other laws concerning the privacy of patients' records and telehealth appointments. 
+
+The security rule focuses on electronically transmitted patient data
+
+Regulations for electronic health records
+The Health Information Technology for Economic and Clinical Health (HITECH) Act was signed in 2009 to encourage the adoption of electronic health records (EHR) and other types of health information technology. EHRs help increase efficiency by making it easier for authorized providers to access patients' medical records. They also make it easier for providers to share patients' records with authorized providers. 
+
+As with paper records and other forms of identifying health information, patients control who has access to their EHR. Organizations that don't comply with privacy regulations concerning EHRs can be fined, similar to how they would be penalized for violating privacy regulations for paper-based records.
+
+EHRs make it easier for authorized providers to access patients' medical records
+
+Telehealth and other technology
+Telehealth visits allow patients to see their medical providers when going into the office is not possible. A telehealth service can be in the form of a video call, telephone call, or text messages exchanged between a patient and provider. While telehealth visits can be convenient for patients, they also have the potential to raise privacy concerns, as a bad actor can intercept a telehealth call or otherwise listen in on the visit.
+
+Telehealth visits should take place when both the provider and patient are in a private setting. A provider should confirm a patient is in a safe and private location before beginning the call and verify to the patient that they are in a private location. If the visit can't be conducted in a private setting, the provider should make every effort to limit the potential disclosure of private information, such as by speaking softly or asking the patient to move away from others.
+
+Strategies to secure health data 
+Since there are financial penalties for even unknowingly violating HIPAA and other privacy regulations, it's up to your organization to ensure it fully complies with medical privacy laws at all times. Fortunately, there are multiple tools available and strategies your organization can use to protect patient privacy and ensure compliance. 
+
+1. Protecting key systems
+Technology is key to protecting confidential patient information and minimizing the risk of a breach or other unauthorized access to patient data. Your organization needs a content management system that complies with HIPAA while streamlining the process of creating, managing, and collaborating on patient data.
+
+The Box Content Cloud gives your practice a single place to secure and manage your content and workflows, all while ensuring you maintain compliance with HIPAA and other industry standards. Box integrates with the apps your organization is already using, giving you a secure content layer. With more than 1,500 different integrations, you can support your workflow seamlessly, and members of your healthcare team can access the documents and information they need from any authorized device. 
+
+Box integrates with the apps your organization is already using giving you a secure content layer
+
+You also have the option of setting permissions with Box, ensuring only users the patient has approved have access to their data. Some of the other Box features include:
+
+E-signatures and consent forms
+Collaboration on research projects
+Streamlined care coordination
+Content for patient education
+HIPAA-compliant mobile access
+2. Training
+A HIPAA-compliant content management system can only take your organization so far. Your team needs to know how to use it and what to do to protect patients’ confidential health information. 
+
+Ideally, anyone who has access to the Content Cloud should have an understanding of basic security measures to take to keep data safe and minimize the risk of a breach. Some training areas to focus on include:
+
+Creating strong passwords
+Securing personal and work-related mobile devices
+Identifying scams, including phishing scams
+Adopting security measures, such as requiring multi-factor authentication
+Along with recognizing the importance of teaching employees security measures, it's also essential that your team understands the requirements and expectations of HIPAA.
+
+3. Staying current with new regulations
+The regulations concerning patient privacy evolve over time. For example, during the COVID-19 pandemic, the Department of Health and Human Services adjusted the requirements for telehealth visits to ensure greater access to medical care when many people were unable to leave home or were hesitant about seeing a provider in person. It's essential an organization keeps tabs on any changes in regulations to ensure it continues to comply with the rules.
+
+An organization must keep tabs on changing regulations to ensure it maintains compliance
+
+Using a cloud-based content management system that is HIPAA-compliant can make it easier for your organization to keep up to date on any changing regulations. The cloud-based file-sharing system should include features that ensure compliance and should be updated regularly to account for any changes in the rules.
+
+How Box helps maintain HIPAA compliance
+Box has been compliant with HIPAA, HITECH, and the HIPAA Omnibus rule since 2012. When you manage patient data in the Content Cloud, you can rest assured that it is secured based on HIPAA rules. Box is considered a “business associate,” one of the types of covered entities under HIPAA, and signs business associate agreements with all of our healthcare clients. 
+
+Since HIPAA and privacy regulations are continually evolving, Box is continuously being updated. We update our policies, procedures, and products frequently to maintain and ensure ongoing HIPAA compliance. A third-party auditor has evaluated our platform and affirmed it has the controls in place to meet HIPAA's privacy and data security requirements.
+
+Here are a few of the features that help our platform ensure HIPAA compliance:
+
+Encryption when data is at rest and in transit
+Logical system access controls
+User and content account activity reporting and audit trails
+Security policy and control training for employees
+Restricted employee access to customer data
+Mirrored, active data center facilities in case of emergencies or disasters
+Learn more about the Content Cloud 
+To gain and keep patients' trust, healthcare organizations need to demonstrate they’re serious about protecting patient privacy and complying with regulations. As a HIPAA-compliant platform, the Content Cloud allows you to secure protected health information, gain the trust of your patients, and avoid noncompliance penalties. 
+
+In addition to our healthcare data security applications, your practice can use Box to streamline daily operations and improve your quality of care. Simplify the second-opinion process and enable effortless coordination on DICOM studies and patient care. Make consent and forms a breeze with our native e-signature capabilities. You can even deliver educational content to patients to further their education and work toward improved outcomes. 
+
+Choose from a variety of business plans to unlock the features and products you need to support daily operations. Contact us today to learn more about our platform.

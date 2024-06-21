@@ -1,0 +1,119 @@
+This Year’s Largest Healthcare Data Breaches
+More than 540 organizations reported healthcare data breaches to HHS in 2023, impacting upwards of 112M individuals.
+
+Source: Getty Images
+
+ Share on Twitter 
+December 26, 2023 - Healthcare cybersecurity has garnered unprecedented attention from lawmakers and industry coalitions this year, signifying a step forward for the sector. However, reported data breach figures tell a different story, as cyberattacks continue to devastate the sector.
+
+In 2023, more than 540 organizations and 112 million individuals were implicated in healthcare data breaches reported to the HHS Office for Civil Rights (OCR), compared to 590 organizations and 48.6 million impacted individuals in 2022.
+
+HealthITSecurity has compiled a list of the top ten biggest healthcare data breaches (by number of individuals impacted) reported to OCR this year. HIPAA requires covered entities to report breaches impacting more than 500 individuals to HHS-OCR within 60 days of discovery.
+
+Like last year, multiple breaches in 2023 originated at third-party vendors. What’s more, large-scale vulnerability exploits such as those waged against Progress Software’s MOVEit Transfer software and Fortra’s GoAnywhere managed file transfer (MFT) solution heavily impacted healthcare organizations.
+
+Based on the breach disclosures outlined below, third-party risk management and vulnerability management will likely remain key focus areas in 2024.
+
+HCA HEALTHCARE: 11,270,000 INDIVIDUALS IMPACTED
+HCA Healthcare, a large healthcare organization comprised of 180 hospitals and 2,300 ambulatory sites of care in 20 states and the United Kingdom, reported a breach to OCR in July.  
+
+The breach occurred when an unauthorized party stole a list of information used for email messages to patients and posted it on an online forum. The list contained information used for email messages, such as appointment reminders and education about healthcare programs and services. The list consisted of 27 million rows of data.
+
+HCA Healthcare stated that the incident “appears to be a theft from an external storage location exclusively used to automate the formatting of email messages,” and it caused no disruptions to operations or care.
+
+The list contained patient names, cities, states, zip codes, email addresses, phone numbers, gender, dates of birth, and appointment information. The breach did not involve clinical or payment information.
+
+The company said it immediately disabled user access to the storage location and retained third-party investigators. 
+
+PERRY JOHNSON & ASSOCIATES: 8,952,212 INDIVIDUALS IMPACTED
+Medical transcription service Perry Johnson & Associates (PJ&A) disclosed a May data breach to impacted healthcare organization clients in November.
+
+According to the breach notice, PJ&A discovered a data security incident on May 2, 2023 and promptly launched an investigation. The company later determined that an unauthorized third party had maintained access to its systems between March 27 and May 2.
+
+The unauthorized party may have obtained protected health information, including names, dates of birth, medical record numbers, hospital account numbers, admission diagnoses, addresses, and dates of service. The breach also included Social Security numbers, insurance information, and clinical information from medical transcription files, such as medication information and test results.
+
+Following PJ&A’s disclosure, Chicago, Illinois-based Cook County Health notified 1.2 million individuals that they may have been impacted by the breach. Upon learning of the incident, CCH said it terminated its relationship with PJ&A and stopped sharing data with the vendor.
+
+In addition, Northwell Health, New York’s largest healthcare provider, notified patients of the breach, though it did not disclose the exact amount of individuals impacted. The incident later caught the attention of New York Attorney General Letitia James, who issued a consumer alert to warn New Yorkers about the potential impacts of the breach and encourage them to take steps to prevent identity theft.
+
+MANAGED CARE OF NORTH AMERICA: 8,861,076 INDIVIDUALS IMPACTED
+Managed Care of North America (MCNA), a dental benefits administrator that provides services to Medicaid and CHIP programs across eight states, suffered a major healthcare data breach between February 26 and March 7 when its systems were infected with malicious code. Further investigation determined that an unauthorized party had accessed certain systems and removed copies of personal information.
+
+The data involved in the incident ncluded protected health information (PHI) such as names, addresses, telephone numbers, email addresses, birth dates, Social Security numbers, driver’s license numbers, government-issued ID numbers, health insurance information, Medicare/Medicaid ID numbers, group plan names and numbers, and information related to the dental and orthodontic care provided. The types of compromised information varied from individual to individual.  
+
+The LockBit ransomware group claimed responsibility for the data breach, reportedly leaking a portion of the stolen data onto the dark web and holding the rest hostage for ransom. 
+
+MCNA took measures to bolster its cybersecurity posture following the breach.
+
+WELLTOK: 8,493,379 INDIVIDUALS IMPACTED
+Healthcare software-as-a-service company Welltok notified nearly 8.5 million individuals of a data breach stemming from the May 2023 MOVEit hack, which impacted hundreds of organizations worldwide.
+
+As previously reported, threat actors took advantage of a vulnerability in Progress Software’s MOVEit Transfer server. Progress software disclosed the vulnerability on May 31 and issued a patch on the same day.
+
+“Welltok had previously installed all published patches and security upgrades immediately upon such patches being made available by Progress Software, the developer of the MOVEit Transfer tool,” Welltok stated in a notice to consumers.
+
+“Welltok also conducted an examination of our systems and networks using all information available to determine the potential impact of the vulnerabilities we were alerted to on the MOVEit Transfer server and the security of data housed on the server, and confirmed that there was no indication of any compromise at that time.”
+
+However, further investigation by Welltok determined that an unauthorized actor had in fact exploited the vulnerabilities and exfiltrated certain data from the MOVEit Transfer server. Welltok notified millions of consumers on behalf of 20 healthcare providers and plans, including Sutter Health, Mass General Brigham Health Plan, and Blue Cross and Blue Shield of Minnesota, Alabama, Kansas, and North Carolina, among others.
+
+The information included in the breach may have included names, addresses, email addresses, and phone numbers. A small number of Social Security numbers, health insurance information, and Medicare/Medicaid ID numbers were also impacted.
+
+PHARMERICA CORPORATION: 5,815,591 INDIVIDUALS IMPACTED
+Long-term care pharmacy network PharMerica disclosed a breach to OCR in May that impacted more than 5.8 million individuals. PharMerica discovered suspicious activity within its network on March 14, 2023, later determining that an unknown party had accessed its computer systems and potentially obtained personal information.
+
+The information involved in the breach included names, Social Security numbers, addresses, birth dates, medication information, and health insurance information. A breach notice provided to the Maine Attorney General’s Office was addressed to estate executors, meaning that some portion of the impacted individuals were deceased.
+
+PharMerica urged executors to request copies of the deceased individual’s credit report and to place alerts on the file with major credit reporting agencies.
+
+PharMerica said it had “no reason to believe that anyone’s information has been misused for the purpose of committing fraud or identity theft.”
+
+COLORADO DEPARTMENT OF HEALTH CARE POLICY & FINANCING: 4,091,794 INDIVIDUALS IMPACTED
+The MOVEit Transfer hack also impacted millions of Colorado Medicaid beneficiaries by way of IBM.
+
+IBM is a third-party contractor of HCPF, which runs Colorado’s Medicaid program. IBM uses the MOVEit application to transfer files on behalf of the Colorado Department of Health Care Policy & Financing (HCPF). In May, IBM notified HCPF of the MOVEit incident, prompting HCPF to launch an investigation.
+
+“While HCPF confirmed that no other HCPF systems or databases were impacted, on June 13, 2023, the investigation identified that certain HCPF files on the MOVEit application used by IBM were accessed by the unauthorized actor on or about May 28, 2023. These files contained certain Health First Colorado and CHP+ members’ information,” HCPF confirmed.
+
+More than 4 million beneficiaries were impacted by the breach, which involved unauthorized access to Social Security numbers, names, medical information, and health information.
+
+REGAL MEDICAL GROUP: 3,388,856 INDIVIDUALS IMPACTED
+Regal Medical Group disclosed a breach to OCR in February 2023 that occurred in December 2022. Regal Medical Group is an affiliate of Heritage Provider Network (HPN) that consists of Lakeside Medical Organization, Affiliated Doctors of Orange County and Greater Covina Medical Group.
+
+On December 2 of last year, Regal employees “noticed difficulty in accessing some of our servers,” the notice to impacted patients stated. Regal later discovered that a threat actor had deployed malware on its server and had accessed and exfiltrated sensitive data.  
+
+The data involved in the incident may have included names, addresses, Social Security numbers, dates of birth, lab test results, prescription data, diagnoses, radiology reports, health plan numbers, and phone numbers.
+
+Regal worked with third-party vendors to investigate the incident and restore access to its systems.
+
+CARESOURCE: 3,180,537 INDIVIDUALS IMPACTED
+CareSource, a nonprofit health plan, also fell victim to the MOVEit hack this year. CareSource specifically mentioned Clop ransomware group in its breach notification, as the group claimed responsibility for the attack.
+
+The CareSource member data that was potentially involved in the incident included member identification numbers, names, addresses, emails, phone numbers, dates of birth, Social Security numbers, plan name, and aspects of health conditions.
+
+“We take the security and sensitive nature of our member data seriously and quickly took steps to address the incident, including retaining a leading cybersecurity firm,” said Anne Fogler AVP of privacy and compliance at CareSource.
+
+“Our cybersecurity teams and third-party experts analyzed the incident and worked to identify the impacted individuals. We are notifying these members and are committed to helping them safeguard their information by providing resources and services to protect and monitor their personal data.”
+
+CEREBRAL: 3,179,835 INDIVIDUALS IMPACTED
+Online mental healthcare platform Cerebral notified more than 3.1 million users of a data breach that stemmed from its use of tracking pixels, an issue that was a major theme of breach notifications in 2022. As previously reported, several United States senators sent letters to telehealth companies in February, including Cerebral, to address concerns over their health data privacy practices.
+
+Specifically, the Senators raised issues surrounding reports that these companies have been tracking their customers’ sensitive health information and sharing it with third-party advertisers such as Meta and Google.
+
+In March, Cerebral issued a breach notification stating that “like others in many industries, including health systems, traditional brick and mortar providers, and other telehealth companies, Cerebral has used what are called ‘pixels’ and similar common technologies (‘Tracking Technologies’), such as those made available by Google, Meta (Facebook), TikTok, and other third parties (‘Third-Party Platforms’), on Cerebral’s Platforms.”
+
+Cerebral implemented these technologies when it began operations in October 2019 until it launched a review of its data sharing practices a few years later. On January 3, 2023, Cerebral determined that it had disclosed protected health information (PHI) to certain subcontractors “without having obtained HIPAA-required assurances.”
+
+“If an individual created a Cerebral account, the information disclosed may have included name, phone number, email address, date of birth, IP address, Cerebral client ID number, and other demographic or information,” the notice stated.
+
+“If, in addition to creating a Cerebral account, an individual also completed any portion of Cerebral’s online mental health self-assessment, the information disclosed may also have included the service the individual selected, assessment responses, and certain associated health information.”
+
+Other telehealth companies have faced enforcement actions from the Federal Trade Commission (FTC), showing that the FTC is committed to cracking down on improper health data privacy and security practices.
+
+NATIONSBENEFITS HOLDINGS: 3,037,303 INDIVIDUALS IMPACTED
+NationsBenefits, which provides supplemental benefits administration services to healthcare plans, reported a breach to OCR in April that impacted more than 3 million individuals. California-based Santa Clara Health Plan (SCHP) was one of the organizations impacted by the NationsBenefits breach.
+
+NationsBenefits reported that the breach stemmed from a known vulnerability in Fortra’s GoAnywhere managed file transfer (MFT) solution. NationsBenefits determined that certain members’ personal information was impacted by the incident in mid-February. The impacted information included names, demographic information, health insurance numbers, Social Security numbers, dates of service, phone numbers, and provider names.
+
+NationsBenefits said it immediately stopped using Fortra’s software and implemented additional processes to strengthen its security posture.
+
+The Health Sector Cybersecurity Coordination Center (HC3) issued an alert in February to warn the healthcare sector specifically about Clop ransomware’s use of the Fortra vulnerability. Clop claimed to have conducted a mass cyberattack against 130 organizations.

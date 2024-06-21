@@ -1,0 +1,25 @@
+
+Health Information Privacy Law and Policy
+law and policyWhat Type of Patient Choice Exists Under HIPAA?
+Most health care providers must follow the Health Insurance Portability and Accountability Act (HIPAA) Privacy Rule (Privacy Rule), a federal privacy law that sets a baseline of protection for certain individually identifiable health information (“health information”). 
+
+The Privacy Rule generally permits, but does not require, covered health care providers to give patients the choice as to whether their health information may be disclosed to others for certain key purposes.  These key purposes include treatment, payment, and health care operations.
+
+How Can Patient Choice Be Implemented in Electronic Health Information Exchange (eHIE)?
+While it is not required, health care providers may decide to offer patients a choice as to whether their health information may be exchanged electronically, either directly or through a Health Information Exchange Organization (HIE). That is, they may offer an “opt-in” or “opt-out” policy [PDF - 713 KB] or a combination.
+
+Are There Specific Legal Requirements for Opt-In or Opt-Out Policies?
+The U.S. Department of Health and Human Services (HHS) does not set out specific steps or requirements for obtaining a patient’s choice whether to participate in eHIE.  However, adequately informing patients of these new models for exchange and giving them the choice whether to participate is one means of ensuring that patients trust these systems.  Providers are therefore encouraged to enable patients to make a “meaningful” consent choice rather than an uninformed one. 
+
+You can read more about patient choice and eHIE in guidance released by the Office for Civil Rights (OCR): The HIPAA Privacy Rule and Electronic Health Information Exchange in a Networked Environment [PDF - 164KB].
+
+Are There Privacy Laws that Require Patient Consent?
+Yes.  There are some federal and state privacy laws (e.g., 42 CFR Part 2, Title 10) that require health care providers to obtain patients’ written consent before they disclose their health information to other people and organizations, even for treatment.  Many of these privacy laws protect information that is related to health conditions considered “sensitive” by most people.
+
+How Does HIPAA Affect These Other Privacy Laws?
+HIPAA created a baseline of privacy protection. It overrides (or “preempts”) other privacy laws that are less protective.  But HIPAA leaves in effect other laws that are more privacy-protective.  Under this legal framework, health care providers and other implementers must continue to follow other applicable federal and state laws that require obtaining patients’ consent before disclosing their health information.
+
+The resources listed below provide links to some federal, state, and organization resources that may be of interest for those setting up eHIE policies in consultation with legal counsel.  Implementers may also want to visit their state’s law and policy sites for additional information.
+
+Federal, State, and Organization Resources about Consent, Personal Choice, and Confidentiality
+We encourage providers, HIEs, and other health IT implementers to seek expert advice when evaluating these resources, as privacy laws and policies continually evolve.  The resources are not intended to serve as legal advice or offer recommendations based on an implementer’s specific circumstances.
