@@ -14,7 +14,7 @@ def get_llm(model="gpt-3.5-turbo"):
 
 def _emb_fn():
     return embedding_functions.OpenAIEmbeddingFunction(
-        api_key='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',
+        api_key='',
         model_name="text-embedding-ada-002"
     )
 
